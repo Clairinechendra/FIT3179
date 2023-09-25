@@ -1,4 +1,4 @@
-Entity,Code,Year,"Share of students achieving the minimum threshold (Altinok, Angrist, and Patrinos (2018)) ","Share of students achieving the advanced threshold (Altinok, Angrist, and Patrinos (2018)) ",Population (historical estimates),Continent
+Entity,Code,Year,Minimum,Advanced,Population,Continent
 Abkhazia,OWID_ABK,2015,,,,Asia
 Afghanistan,AFG,-10000,,,14737,
 Afghanistan,AFG,-9000,,,20405,
