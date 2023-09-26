@@ -1,0 +1,63 @@
+{
+    "$schema": "https://vega.github.io/schema/vega/v5.json",
+    "width": 300,
+    "height": 1000,
+    "title": {
+      "text": "Government Expenditure on Education, total (% of GDP)",
+      "fontSize": 16
+    },
+  
+    "data": [
+      {
+        "name": "expenditure",
+        "url": "https://raw.githubusercontent.com/Clairinechendra/FIT3179_A2/main/Edu%20Data/total-government-expenditure-on-education-gdp_clean.csv",
+        "format": {"type": "csv", 
+                    "parse": {
+                    "Expenditure": "number",
+                    "Year": "date" }}
+      }
+    ],
+    
+    "legends": [
+        {
+          "fill": "color",
+          "type": "symbol",
+          "title": "% Expense of GDP",
+          "direction": "vertical",
+          "orient": "right"
+        }
+      ],
+
+    "scales": [
+      {"name": "x", "type": "time", "domain": {"data": "expenditure", "field": "Year"}, "range": "width"},
+      {"name": "y", "type": "band", "domain": {"data": "expenditure","field": "Country"}, "range": "height"},
+      {"name": "color", "type": "quantile",  "range": {"scheme": "yellowgreenblue"}, "domain": {"data": "expenditure", "field": "Expenditure"}
+      }
+    ],
+  
+    "axes": [
+      { "scale": "x", "orient": "bottom", "title": "Year"},
+      { "scale": "y", "orient": "left", "title": "Country"}
+    ],
+  
+    "marks": [
+      {
+        "type": "rect",
+        "from": {"data": "expenditure"},
+        "encode": {
+          "enter": {
+            "x": {"scale": "x", "timeUnit": "year","field": "Year"}, 
+            "y": {"scale": "y", "field": "Country"},
+            "width": {"value": 15},
+            "height": {"scale": "y", "band": 1},
+            "tooltip": [
+              {"signal": "{\"Country\": datum.Country, \"Year\": datum.Year1,\"% Expense of GDP\": format(datum.Expenditure,',.2f')}"}
+            ]
+          },
+          "update": {
+            "fill": {"scale": "color", "field": "Expenditure"}
+          }
+        }
+      }
+    ]
+    }

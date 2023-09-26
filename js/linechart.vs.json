@@ -1,0 +1,53 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 600,
+    "title": {
+        "text": "Gender Ratio for Average Years of Schooling",
+        "fontSize": 16},
+    "data": {"url": "https://raw.githubusercontent.com/Clairinechendra/FIT3179_A2/main/Edu%20Data/genderratio_Cleaned.csv"},
+    "mark": {
+      "type": "line",
+      "point": true
+    },
+    "transform": [
+        {"filter": "datum.Year>minYear"},
+        {"filter": "datum.Year<maxYear"}
+      ],
+    "params": [
+        {
+          "name": "minYear",
+          "value": 1900,
+          "bind": {
+            "input": "range",
+            "min": 1870,
+            "max": 2040,
+            "step": 1,
+            "name": "Start year: "
+          }
+        },
+        {
+          "name": "maxYear",
+          "value": 2020,
+          "bind": {
+            "input": "range",
+            "min": 1870,
+            "max": 2040,
+            "step": 1,
+            "name": "End year: "
+          }
+        }
+      ],
+      
+    "encoding": {
+      "x": {"field": "Year", "type": "quantitative"},
+      "y": {"field": "Ratio", "type": "quantitative"},
+      "color": {"field": "Entity", "type": "nominal", "title": "Continent"},
+    
+      "tooltip": [
+        {"field": "Year", "type": "quantitative"},
+        {"field": "Entity", "type": "nominal", "title": "Continent"},
+        {"field": "Ratio", "type": "quantitative", "format": ",.2f"}
+      ]
+    }
+  }
