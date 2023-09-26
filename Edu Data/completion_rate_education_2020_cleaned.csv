@@ -1,69 +1,69 @@
-,Entity,Code,Year,continent,primary_percentage,lowersec_percentage,uppersec_percentage
-3,Argentina,ARG,2020,South America,96,94.03257,64
-4,Armenia,ARM,2020,Asia,100,90.10375,97
-6,Austria,AUT,2020,Europe,99,96.10302,85
-8,Belarus,BLR,2020,Europe,100,96.31823,92
-9,Belgium,BEL,2020,Europe,100,94.53217,87
-10,Belize,BLZ,2020,North America,83,69.46467,16
-11,Benin,BEN,2020,Africa,62,33.00318,12
-12,Bolivia,BOL,2020,South America,97,89.17938,80
-15,Burundi,BDI,2020,Africa,52,29.95307,9
-16,Cambodia,KHM,2020,Asia,79,58.15839,22
-17,Cameroon,CMR,2020,Africa,76,36.2984,19
-21,Chile,CHL,2020,South America,98,98.77642,88
-23,Colombia,COL,2020,South America,94,79.49662,74
-25,Costa Rica,CRI,2020,North America,97,69.22277,65
-26,Cote d'Ivoire,CIV,2020,Africa,58,57.30816,13
-27,Croatia,HRV,2020,Europe,100,97.99799,97
-28,Cuba,CUB,2020,North America,99,86.0507,71
-29,Cyprus,CYP,2020,Asia,99,81.83664,88
-30,Czechia,CZE,2020,Europe,100,92.71939,92
-31,Democratic Republic of Congo,COD,2020,Africa,58,59.04846,21
-32,Denmark,DNK,2020,Europe,100,103.91667,78
-33,Dominican Republic,DOM,2020,North America,92,85.31756,64
-34,East Timor,TLS,2020,Asia,77,91.506905,52
-36,Ecuador,ECU,2020,South America,98,102.32163,73
-38,Estonia,EST,2020,Europe,99,100.80441,87
-42,Finland,FIN,2020,Europe,100,102.06495,89
-43,France,FRA,2020,Europe,100,100.11273,88
-44,Gambia,GMB,2020,Africa,64,57.58168,29
-45,Georgia,GEO,2020,Asia,100,111.9635,92
-48,Greece,GRC,2020,Europe,100,93.58644,95
-49,Guatemala,GTM,2020,North America,83,56.21985,37
-50,Guinea,GIN,2020,Africa,53,33.16057,22
-55,Hungary,HUN,2020,Europe,100,95.60019,86
-56,India,IND,2020,Asia,94,84.582214,51
-59,Italy,ITA,2020,Europe,100,98.65704,85
-60,Jordan,JOR,2020,Asia,98,66.35639,59
-61,Kazakhstan,KAZ,2020,Asia,100,104.02692,98
-63,Kiribati,KIR,2020,Oceania,93,99.91759,19
-64,Kyrgyzstan,KGZ,2020,Asia,99,103.8986,96
-66,Latvia,LVA,2020,Europe,100,98.34839,91
-70,Lithuania,LTU,2020,Europe,100,100.91204,91
-77,Mexico,MEX,2020,North America,98,90.53314,62
-78,Mongolia,MNG,2020,Asia,99,90.28591,88
-79,Montenegro,MNE,2020,Europe,99,89.68993,87
-81,Nepal,NPL,2020,Asia,82,100.04374,36
-84,North Macedonia,MKD,2020,Europe,99,83.03919,82
-87,Norway,NOR,2020,Europe,100,100.30661,82
-94,Philippines,PHL,2020,Asia,91,85.332855,71
-96,Portugal,PRT,2020,Europe,100,99.29401,85
-97,Romania,ROU,2020,Europe,99,86.89391,84
-100,Samoa,WSM,2020,Oceania,98,104.07407,57
-102,Senegal,SEN,2020,Africa,51,37.09591,11
-103,Serbia,SRB,2020,Europe,100,95.23966,80
-104,Sierra Leone,SLE,2020,Africa,66,77.64662,12
-105,Slovakia,SVK,2020,Europe,100,77.04324,96
-106,Slovenia,SVN,2020,Europe,93,94.13056,95
-109,South Korea,KOR,2020,Asia,100,90.18053,99
-110,Spain,ESP,2020,Europe,100,95.71266,78
-112,Suriname,SUR,2020,South America,86,45.21433,30
-113,Sweden,SWE,2020,Europe,100,107.00057,84
-114,Switzerland,CHE,2020,Europe,100,97.0475,93
-116,Tanzania,TZA,2020,Africa,74,33.16817,11
-117,Thailand,THA,2020,Asia,99,171.04013,65
-118,Togo,TGO,2020,Africa,81,51.88255,19
-119,Tonga,TON,2020,Oceania,99,76.43285,86
-123,Tuvalu,TUV,2020,Oceania,99,62.6556,55
-125,United States,USA,2020,North America,100,103.84594,95
-130,Zimbabwe,ZWE,2020,Africa,87,67.99164,8
+Entity,Code,Year,continent,primary_percentage,lowersec_percentage,uppersec_percentage
+Argentina,ARG,2020,South America,96,94.03257,64
+Armenia,ARM,2020,Asia,100,90.10375,97
+Austria,AUT,2020,Europe,99,96.10302,85
+Belarus,BLR,2020,Europe,100,96.31823,92
+Belgium,BEL,2020,Europe,100,94.53217,87
+Belize,BLZ,2020,North America,83,69.46467,16
+Benin,BEN,2020,Africa,62,33.00318,12
+Bolivia,BOL,2020,South America,97,89.17938,80
+Burundi,BDI,2020,Africa,52,29.95307,9
+Cambodia,KHM,2020,Asia,79,58.15839,22
+Cameroon,CMR,2020,Africa,76,36.2984,19
+Chile,CHL,2020,South America,98,98.77642,88
+Colombia,COL,2020,South America,94,79.49662,74
+Costa Rica,CRI,2020,North America,97,69.22277,65
+Cote d'Ivoire,CIV,2020,Africa,58,57.30816,13
+Croatia,HRV,2020,Europe,100,97.99799,97
+Cuba,CUB,2020,North America,99,86.0507,71
+Cyprus,CYP,2020,Asia,99,81.83664,88
+Czechia,CZE,2020,Europe,100,92.71939,92
+Democratic Republic of Congo,COD,2020,Africa,58,59.04846,21
+Denmark,DNK,2020,Europe,100,103.91667,78
+Dominican Republic,DOM,2020,North America,92,85.31756,64
+East Timor,TLS,2020,Asia,77,91.506905,52
+Ecuador,ECU,2020,South America,98,102.32163,73
+Estonia,EST,2020,Europe,99,100.80441,87
+Finland,FIN,2020,Europe,100,102.06495,89
+France,FRA,2020,Europe,100,100.11273,88
+Gambia,GMB,2020,Africa,64,57.58168,29
+Georgia,GEO,2020,Asia,100,111.9635,92
+Greece,GRC,2020,Europe,100,93.58644,95
+Guatemala,GTM,2020,North America,83,56.21985,37
+Guinea,GIN,2020,Africa,53,33.16057,22
+Hungary,HUN,2020,Europe,100,95.60019,86
+India,IND,2020,Asia,94,84.582214,51
+Italy,ITA,2020,Europe,100,98.65704,85
+Jordan,JOR,2020,Asia,98,66.35639,59
+Kazakhstan,KAZ,2020,Asia,100,104.02692,98
+Kiribati,KIR,2020,Oceania,93,99.91759,19
+Kyrgyzstan,KGZ,2020,Asia,99,103.8986,96
+Latvia,LVA,2020,Europe,100,98.34839,91
+Lithuania,LTU,2020,Europe,100,100.91204,91
+Mexico,MEX,2020,North America,98,90.53314,62
+Mongolia,MNG,2020,Asia,99,90.28591,88
+Montenegro,MNE,2020,Europe,99,89.68993,87
+Nepal,NPL,2020,Asia,82,100.04374,36
+North Macedonia,MKD,2020,Europe,99,83.03919,82
+Norway,NOR,2020,Europe,100,100.30661,82
+Philippines,PHL,2020,Asia,91,85.332855,71
+Portugal,PRT,2020,Europe,100,99.29401,85
+Romania,ROU,2020,Europe,99,86.89391,84
+Samoa,WSM,2020,Oceania,98,104.07407,57
+Senegal,SEN,2020,Africa,51,37.09591,11
+Serbia,SRB,2020,Europe,100,95.23966,80
+Sierra Leone,SLE,2020,Africa,66,77.64662,12
+Slovakia,SVK,2020,Europe,100,77.04324,96
+Slovenia,SVN,2020,Europe,93,94.13056,95
+South Korea,KOR,2020,Asia,100,90.18053,99
+Spain,ESP,2020,Europe,100,95.71266,78
+Suriname,SUR,2020,South America,86,45.21433,30
+Sweden,SWE,2020,Europe,100,107.00057,84
+Switzerland,CHE,2020,Europe,100,97.0475,93
+Tanzania,TZA,2020,Africa,74,33.16817,11
+Thailand,THA,2020,Asia,99,171.04013,65
+Togo,TGO,2020,Africa,81,51.88255,19
+Tonga,TON,2020,Oceania,99,76.43285,86
+Tuvalu,TUV,2020,Oceania,99,62.6556,55
+United States,USA,2020,North America,100,103.84594,95
+Zimbabwe,ZWE,2020,Africa,87,67.99164,8
