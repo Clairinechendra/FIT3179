@@ -1,0 +1,614 @@
+[
+ {
+   "Entity": "Argentina",
+   "Code": "ARG",
+   "Year": 2020,
+   "continent": "South America",
+   "primary_percentage": 96,
+   "lowersec_percentage": 94.03257,
+   "uppersec_percentage": 64
+ },
+ {
+   "Entity": "Armenia",
+   "Code": "ARM",
+   "Year": 2020,
+   "continent": "Asia",
+   "primary_percentage": 100,
+   "lowersec_percentage": 90.10375,
+   "uppersec_percentage": 97
+ },
+ {
+   "Entity": "Austria",
+   "Code": "AUT",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 99,
+   "lowersec_percentage": 96.10302,
+   "uppersec_percentage": 85
+ },
+ {
+   "Entity": "Belarus",
+   "Code": "BLR",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 96.31823,
+   "uppersec_percentage": 92
+ },
+ {
+   "Entity": "Belgium",
+   "Code": "BEL",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 94.53217,
+   "uppersec_percentage": 87
+ },
+ {
+   "Entity": "Belize",
+   "Code": "BLZ",
+   "Year": 2020,
+   "continent": "North America",
+   "primary_percentage": 83,
+   "lowersec_percentage": 69.46467,
+   "uppersec_percentage": 16
+ },
+ {
+   "Entity": "Benin",
+   "Code": "BEN",
+   "Year": 2020,
+   "continent": "Africa",
+   "primary_percentage": 62,
+   "lowersec_percentage": 33.00318,
+   "uppersec_percentage": 12
+ },
+ {
+   "Entity": "Bolivia",
+   "Code": "BOL",
+   "Year": 2020,
+   "continent": "South America",
+   "primary_percentage": 97,
+   "lowersec_percentage": 89.17938,
+   "uppersec_percentage": 80
+ },
+ {
+   "Entity": "Burundi",
+   "Code": "BDI",
+   "Year": 2020,
+   "continent": "Africa",
+   "primary_percentage": 52,
+   "lowersec_percentage": 29.95307,
+   "uppersec_percentage": 9
+ },
+ {
+   "Entity": "Cambodia",
+   "Code": "KHM",
+   "Year": 2020,
+   "continent": "Asia",
+   "primary_percentage": 79,
+   "lowersec_percentage": 58.15839,
+   "uppersec_percentage": 22
+ },
+ {
+   "Entity": "Cameroon",
+   "Code": "CMR",
+   "Year": 2020,
+   "continent": "Africa",
+   "primary_percentage": 76,
+   "lowersec_percentage": 36.2984,
+   "uppersec_percentage": 19
+ },
+ {
+   "Entity": "Chile",
+   "Code": "CHL",
+   "Year": 2020,
+   "continent": "South America",
+   "primary_percentage": 98,
+   "lowersec_percentage": 98.77642,
+   "uppersec_percentage": 88
+ },
+ {
+   "Entity": "Colombia",
+   "Code": "COL",
+   "Year": 2020,
+   "continent": "South America",
+   "primary_percentage": 94,
+   "lowersec_percentage": 79.49662,
+   "uppersec_percentage": 74
+ },
+ {
+   "Entity": "Costa Rica",
+   "Code": "CRI",
+   "Year": 2020,
+   "continent": "North America",
+   "primary_percentage": 97,
+   "lowersec_percentage": 69.22277,
+   "uppersec_percentage": 65
+ },
+ {
+   "Entity": "Cote d'Ivoire",
+   "Code": "CIV",
+   "Year": 2020,
+   "continent": "Africa",
+   "primary_percentage": 58,
+   "lowersec_percentage": 57.30816,
+   "uppersec_percentage": 13
+ },
+ {
+   "Entity": "Croatia",
+   "Code": "HRV",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 97.99799,
+   "uppersec_percentage": 97
+ },
+ {
+   "Entity": "Cuba",
+   "Code": "CUB",
+   "Year": 2020,
+   "continent": "North America",
+   "primary_percentage": 99,
+   "lowersec_percentage": 86.0507,
+   "uppersec_percentage": 71
+ },
+ {
+   "Entity": "Cyprus",
+   "Code": "CYP",
+   "Year": 2020,
+   "continent": "Asia",
+   "primary_percentage": 99,
+   "lowersec_percentage": 81.83664,
+   "uppersec_percentage": 88
+ },
+ {
+   "Entity": "Czechia",
+   "Code": "CZE",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 92.71939,
+   "uppersec_percentage": 92
+ },
+ {
+   "Entity": "Democratic Republic of Congo",
+   "Code": "COD",
+   "Year": 2020,
+   "continent": "Africa",
+   "primary_percentage": 58,
+   "lowersec_percentage": 59.04846,
+   "uppersec_percentage": 21
+ },
+ {
+   "Entity": "Denmark",
+   "Code": "DNK",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 103.91667,
+   "uppersec_percentage": 78
+ },
+ {
+   "Entity": "Dominican Republic",
+   "Code": "DOM",
+   "Year": 2020,
+   "continent": "North America",
+   "primary_percentage": 92,
+   "lowersec_percentage": 85.31756,
+   "uppersec_percentage": 64
+ },
+ {
+   "Entity": "East Timor",
+   "Code": "TLS",
+   "Year": 2020,
+   "continent": "Asia",
+   "primary_percentage": 77,
+   "lowersec_percentage": 91.506905,
+   "uppersec_percentage": 52
+ },
+ {
+   "Entity": "Ecuador",
+   "Code": "ECU",
+   "Year": 2020,
+   "continent": "South America",
+   "primary_percentage": 98,
+   "lowersec_percentage": 102.32163,
+   "uppersec_percentage": 73
+ },
+ {
+   "Entity": "Estonia",
+   "Code": "EST",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 99,
+   "lowersec_percentage": 100.80441,
+   "uppersec_percentage": 87
+ },
+ {
+   "Entity": "Finland",
+   "Code": "FIN",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 102.06495,
+   "uppersec_percentage": 89
+ },
+ {
+   "Entity": "France",
+   "Code": "FRA",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 100.11273,
+   "uppersec_percentage": 88
+ },
+ {
+   "Entity": "Gambia",
+   "Code": "GMB",
+   "Year": 2020,
+   "continent": "Africa",
+   "primary_percentage": 64,
+   "lowersec_percentage": 57.58168,
+   "uppersec_percentage": 29
+ },
+ {
+   "Entity": "Georgia",
+   "Code": "GEO",
+   "Year": 2020,
+   "continent": "Asia",
+   "primary_percentage": 100,
+   "lowersec_percentage": 111.9635,
+   "uppersec_percentage": 92
+ },
+ {
+   "Entity": "Greece",
+   "Code": "GRC",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 93.58644,
+   "uppersec_percentage": 95
+ },
+ {
+   "Entity": "Guatemala",
+   "Code": "GTM",
+   "Year": 2020,
+   "continent": "North America",
+   "primary_percentage": 83,
+   "lowersec_percentage": 56.21985,
+   "uppersec_percentage": 37
+ },
+ {
+   "Entity": "Guinea",
+   "Code": "GIN",
+   "Year": 2020,
+   "continent": "Africa",
+   "primary_percentage": 53,
+   "lowersec_percentage": 33.16057,
+   "uppersec_percentage": 22
+ },
+ {
+   "Entity": "Hungary",
+   "Code": "HUN",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 95.60019,
+   "uppersec_percentage": 86
+ },
+ {
+   "Entity": "India",
+   "Code": "IND",
+   "Year": 2020,
+   "continent": "Asia",
+   "primary_percentage": 94,
+   "lowersec_percentage": 84.582214,
+   "uppersec_percentage": 51
+ },
+ {
+   "Entity": "Italy",
+   "Code": "ITA",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 98.65704,
+   "uppersec_percentage": 85
+ },
+ {
+   "Entity": "Jordan",
+   "Code": "JOR",
+   "Year": 2020,
+   "continent": "Asia",
+   "primary_percentage": 98,
+   "lowersec_percentage": 66.35639,
+   "uppersec_percentage": 59
+ },
+ {
+   "Entity": "Kazakhstan",
+   "Code": "KAZ",
+   "Year": 2020,
+   "continent": "Asia",
+   "primary_percentage": 100,
+   "lowersec_percentage": 104.02692,
+   "uppersec_percentage": 98
+ },
+ {
+   "Entity": "Kiribati",
+   "Code": "KIR",
+   "Year": 2020,
+   "continent": "Oceania",
+   "primary_percentage": 93,
+   "lowersec_percentage": 99.91759,
+   "uppersec_percentage": 19
+ },
+ {
+   "Entity": "Kyrgyzstan",
+   "Code": "KGZ",
+   "Year": 2020,
+   "continent": "Asia",
+   "primary_percentage": 99,
+   "lowersec_percentage": 103.8986,
+   "uppersec_percentage": 96
+ },
+ {
+   "Entity": "Latvia",
+   "Code": "LVA",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 98.34839,
+   "uppersec_percentage": 91
+ },
+ {
+   "Entity": "Lithuania",
+   "Code": "LTU",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 100.91204,
+   "uppersec_percentage": 91
+ },
+ {
+   "Entity": "Mexico",
+   "Code": "MEX",
+   "Year": 2020,
+   "continent": "North America",
+   "primary_percentage": 98,
+   "lowersec_percentage": 90.53314,
+   "uppersec_percentage": 62
+ },
+ {
+   "Entity": "Mongolia",
+   "Code": "MNG",
+   "Year": 2020,
+   "continent": "Asia",
+   "primary_percentage": 99,
+   "lowersec_percentage": 90.28591,
+   "uppersec_percentage": 88
+ },
+ {
+   "Entity": "Montenegro",
+   "Code": "MNE",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 99,
+   "lowersec_percentage": 89.68993,
+   "uppersec_percentage": 87
+ },
+ {
+   "Entity": "Nepal",
+   "Code": "NPL",
+   "Year": 2020,
+   "continent": "Asia",
+   "primary_percentage": 82,
+   "lowersec_percentage": 100.04374,
+   "uppersec_percentage": 36
+ },
+ {
+   "Entity": "North Macedonia",
+   "Code": "MKD",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 99,
+   "lowersec_percentage": 83.03919,
+   "uppersec_percentage": 82
+ },
+ {
+   "Entity": "Norway",
+   "Code": "NOR",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 100.30661,
+   "uppersec_percentage": 82
+ },
+ {
+   "Entity": "Philippines",
+   "Code": "PHL",
+   "Year": 2020,
+   "continent": "Asia",
+   "primary_percentage": 91,
+   "lowersec_percentage": 85.332855,
+   "uppersec_percentage": 71
+ },
+ {
+   "Entity": "Portugal",
+   "Code": "PRT",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 99.29401,
+   "uppersec_percentage": 85
+ },
+ {
+   "Entity": "Romania",
+   "Code": "ROU",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 99,
+   "lowersec_percentage": 86.89391,
+   "uppersec_percentage": 84
+ },
+ {
+   "Entity": "Samoa",
+   "Code": "WSM",
+   "Year": 2020,
+   "continent": "Oceania",
+   "primary_percentage": 98,
+   "lowersec_percentage": 104.07407,
+   "uppersec_percentage": 57
+ },
+ {
+   "Entity": "Senegal",
+   "Code": "SEN",
+   "Year": 2020,
+   "continent": "Africa",
+   "primary_percentage": 51,
+   "lowersec_percentage": 37.09591,
+   "uppersec_percentage": 11
+ },
+ {
+   "Entity": "Serbia",
+   "Code": "SRB",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 95.23966,
+   "uppersec_percentage": 80
+ },
+ {
+   "Entity": "Sierra Leone",
+   "Code": "SLE",
+   "Year": 2020,
+   "continent": "Africa",
+   "primary_percentage": 66,
+   "lowersec_percentage": 77.64662,
+   "uppersec_percentage": 12
+ },
+ {
+   "Entity": "Slovakia",
+   "Code": "SVK",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 77.04324,
+   "uppersec_percentage": 96
+ },
+ {
+   "Entity": "Slovenia",
+   "Code": "SVN",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 93,
+   "lowersec_percentage": 94.13056,
+   "uppersec_percentage": 95
+ },
+ {
+   "Entity": "South Korea",
+   "Code": "KOR",
+   "Year": 2020,
+   "continent": "Asia",
+   "primary_percentage": 100,
+   "lowersec_percentage": 90.18053,
+   "uppersec_percentage": 99
+ },
+ {
+   "Entity": "Spain",
+   "Code": "ESP",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 95.71266,
+   "uppersec_percentage": 78
+ },
+ {
+   "Entity": "Suriname",
+   "Code": "SUR",
+   "Year": 2020,
+   "continent": "South America",
+   "primary_percentage": 86,
+   "lowersec_percentage": 45.21433,
+   "uppersec_percentage": 30
+ },
+ {
+   "Entity": "Sweden",
+   "Code": "SWE",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 107.00057,
+   "uppersec_percentage": 84
+ },
+ {
+   "Entity": "Switzerland",
+   "Code": "CHE",
+   "Year": 2020,
+   "continent": "Europe",
+   "primary_percentage": 100,
+   "lowersec_percentage": 97.0475,
+   "uppersec_percentage": 93
+ },
+ {
+   "Entity": "Tanzania",
+   "Code": "TZA",
+   "Year": 2020,
+   "continent": "Africa",
+   "primary_percentage": 74,
+   "lowersec_percentage": 33.16817,
+   "uppersec_percentage": 11
+ },
+ {
+   "Entity": "Thailand",
+   "Code": "THA",
+   "Year": 2020,
+   "continent": "Asia",
+   "primary_percentage": 99,
+   "lowersec_percentage": 171.04013,
+   "uppersec_percentage": 65
+ },
+ {
+   "Entity": "Togo",
+   "Code": "TGO",
+   "Year": 2020,
+   "continent": "Africa",
+   "primary_percentage": 81,
+   "lowersec_percentage": 51.88255,
+   "uppersec_percentage": 19
+ },
+ {
+   "Entity": "Tonga",
+   "Code": "TON",
+   "Year": 2020,
+   "continent": "Oceania",
+   "primary_percentage": 99,
+   "lowersec_percentage": 76.43285,
+   "uppersec_percentage": 86
+ },
+ {
+   "Entity": "Tuvalu",
+   "Code": "TUV",
+   "Year": 2020,
+   "continent": "Oceania",
+   "primary_percentage": 99,
+   "lowersec_percentage": 62.6556,
+   "uppersec_percentage": 55
+ },
+ {
+   "Entity": "United States",
+   "Code": "USA",
+   "Year": 2020,
+   "continent": "North America",
+   "primary_percentage": 100,
+   "lowersec_percentage": 103.84594,
+   "uppersec_percentage": 95
+ },
+ {
+   "Entity": "Zimbabwe",
+   "Code": "ZWE",
+   "Year": 2020,
+   "continent": "Africa",
+   "primary_percentage": 87,
+   "lowersec_percentage": 67.99164,
+   "uppersec_percentage": 8
+ }
+]
