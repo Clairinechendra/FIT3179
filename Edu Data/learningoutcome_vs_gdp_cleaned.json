@@ -1,0 +1,1532 @@
+[
+ {
+   "FIELD1": 3,
+   "Entity": "Afghanistan",
+   "Code": "AFG",
+   "Year": 2020,
+   "Harmonized Test Scores": 354.7588,
+   "GDP per capita, PPP (constant 2017 international $)": 1968.341,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 30,
+   "Entity": "Albania",
+   "Code": "ALB",
+   "Year": 2020,
+   "Harmonized Test Scores": 434.1276,
+   "GDP per capita, PPP (constant 2017 international $)": 13256.125,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 62,
+   "Entity": "Algeria",
+   "Code": "DZA",
+   "Year": 2020,
+   "Harmonized Test Scores": 374.08908,
+   "GDP per capita, PPP (constant 2017 international $)": 10844.7705,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 95,
+   "Entity": "Angola",
+   "Code": "AGO",
+   "Year": 2020,
+   "Harmonized Test Scores": 325.96548,
+   "GDP per capita, PPP (constant 2017 international $)": 6032.275,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 128,
+   "Entity": "Antigua and Barbuda",
+   "Code": "ATG",
+   "Year": 2020,
+   "Harmonized Test Scores": 406.99744,
+   "GDP per capita, PPP (constant 2017 international $)": 18275.69,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 162,
+   "Entity": "Argentina",
+   "Code": "ARG",
+   "Year": 2020,
+   "Harmonized Test Scores": 408.17264,
+   "GDP per capita, PPP (constant 2017 international $)": 19685.217,
+   "Continent": "South America"
+ },
+ {
+   "FIELD1": 193,
+   "Entity": "Armenia",
+   "Code": "ARM",
+   "Year": 2020,
+   "Harmonized Test Scores": 442.96945,
+   "GDP per capita, PPP (constant 2017 international $)": 13357.697,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 261,
+   "Entity": "Australia",
+   "Code": "AUS",
+   "Year": 2020,
+   "Harmonized Test Scores": 515.68536,
+   "GDP per capita, PPP (constant 2017 international $)": 48747.85,
+   "Continent": "Oceania"
+ },
+ {
+   "FIELD1": 293,
+   "Entity": "Austria",
+   "Code": "AUT",
+   "Year": 2020,
+   "Harmonized Test Scores": 507.63937,
+   "GDP per capita, PPP (constant 2017 international $)": 51988.414,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 326,
+   "Entity": "Azerbaijan",
+   "Code": "AZE",
+   "Year": 2020,
+   "Harmonized Test Scores": 415.9462,
+   "GDP per capita, PPP (constant 2017 international $)": 13726.77,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 391,
+   "Entity": "Bahrain",
+   "Code": "BHR",
+   "Year": 2020,
+   "Harmonized Test Scores": 451.706,
+   "GDP per capita, PPP (constant 2017 international $)": 47847.84,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 422,
+   "Entity": "Bangladesh",
+   "Code": "BGD",
+   "Year": 2020,
+   "Harmonized Test Scores": 368.31528,
+   "GDP per capita, PPP (constant 2017 international $)": 5591.374,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 485,
+   "Entity": "Belarus",
+   "Code": "BLR",
+   "Year": 2020,
+   "Harmonized Test Scores": 488.1431,
+   "GDP per capita, PPP (constant 2017 international $)": 19225.574,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 520,
+   "Entity": "Belgium",
+   "Code": "BEL",
+   "Year": 2020,
+   "Harmonized Test Scores": 516.80786,
+   "GDP per capita, PPP (constant 2017 international $)": 48978.934,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 584,
+   "Entity": "Benin",
+   "Code": "BEN",
+   "Year": 2020,
+   "Harmonized Test Scores": 383.92285,
+   "GDP per capita, PPP (constant 2017 international $)": 3186.478,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 645,
+   "Entity": "Bhutan",
+   "Code": "BTN",
+   "Year": 2020,
+   "Harmonized Test Scores": 386.7394,
+   "GDP per capita, PPP (constant 2017 international $)": 10547.052,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 713,
+   "Entity": "Bosnia and Herzegovina",
+   "Code": "BIH",
+   "Year": 2020,
+   "Harmonized Test Scores": 416.13406,
+   "GDP per capita, PPP (constant 2017 international $)": 14358.987,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 741,
+   "Entity": "Botswana",
+   "Code": "BWA",
+   "Year": 2020,
+   "Harmonized Test Scores": 391.3183,
+   "GDP per capita, PPP (constant 2017 international $)": 13545.674,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 774,
+   "Entity": "Brazil",
+   "Code": "BRA",
+   "Year": 2020,
+   "Harmonized Test Scores": 413.24475,
+   "GDP per capita, PPP (constant 2017 international $)": 14021.958,
+   "Continent": "South America"
+ },
+ {
+   "FIELD1": 805,
+   "Entity": "Brunei",
+   "Code": "BRN",
+   "Year": 2020,
+   "Harmonized Test Scores": 437.51593,
+   "GDP per capita, PPP (constant 2017 international $)": 61603.55,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 840,
+   "Entity": "Bulgaria",
+   "Code": "BGR",
+   "Year": 2020,
+   "Harmonized Test Scores": 441.09332,
+   "GDP per capita, PPP (constant 2017 international $)": 22483.598,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 872,
+   "Entity": "Burkina Faso",
+   "Code": "BFA",
+   "Year": 2020,
+   "Harmonized Test Scores": 403.65433,
+   "GDP per capita, PPP (constant 2017 international $)": 2093.7336,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 904,
+   "Entity": "Burundi",
+   "Code": "BDI",
+   "Year": 2020,
+   "Harmonized Test Scores": 422.7478,
+   "GDP per capita, PPP (constant 2017 international $)": 711.3553,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 935,
+   "Entity": "Cambodia",
+   "Code": "KHM",
+   "Year": 2020,
+   "Harmonized Test Scores": 451.8896,
+   "GDP per capita, PPP (constant 2017 international $)": 4276.1846,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 965,
+   "Entity": "Cameroon",
+   "Code": "CMR",
+   "Year": 2020,
+   "Harmonized Test Scores": 378.86884,
+   "GDP per capita, PPP (constant 2017 international $)": 3665.5105,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 997,
+   "Entity": "Canada",
+   "Code": "CAN",
+   "Year": 2020,
+   "Harmonized Test Scores": 533.998,
+   "GDP per capita, PPP (constant 2017 international $)": 46064.254,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 1067,
+   "Entity": "Central African Republic",
+   "Code": "CAF",
+   "Year": 2020,
+   "Harmonized Test Scores": 368.73016,
+   "GDP per capita, PPP (constant 2017 international $)": 847.765,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 1102,
+   "Entity": "Chad",
+   "Code": "TCD",
+   "Year": 2020,
+   "Harmonized Test Scores": 333.11133,
+   "GDP per capita, PPP (constant 2017 international $)": 1489.1868,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 1135,
+   "Entity": "Chile",
+   "Code": "CHL",
+   "Year": 2020,
+   "Harmonized Test Scores": 452.21823,
+   "GDP per capita, PPP (constant 2017 international $)": 23017.69,
+   "Continent": "South America"
+ },
+ {
+   "FIELD1": 1166,
+   "Entity": "China",
+   "Code": "CHN",
+   "Year": 2020,
+   "Harmonized Test Scores": 441,
+   "GDP per capita, PPP (constant 2017 international $)": 16296.779,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 1201,
+   "Entity": "Colombia",
+   "Code": "COL",
+   "Year": 2020,
+   "Harmonized Test Scores": 419.02753,
+   "GDP per capita, PPP (constant 2017 international $)": 13387.701,
+   "Continent": "South America"
+ },
+ {
+   "FIELD1": 1232,
+   "Entity": "Comoros",
+   "Code": "COM",
+   "Year": 2020,
+   "Harmonized Test Scores": 392.22552,
+   "GDP per capita, PPP (constant 2017 international $)": 3222.374,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 1265,
+   "Entity": "Congo",
+   "Code": "COG",
+   "Year": 2020,
+   "Harmonized Test Scores": 370.61407,
+   "GDP per capita, PPP (constant 2017 international $)": 3384.6543,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 1298,
+   "Entity": "Costa Rica",
+   "Code": "CRI",
+   "Year": 2020,
+   "Harmonized Test Scores": 428.5557,
+   "GDP per capita, PPP (constant 2017 international $)": 19824.348,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 1330,
+   "Entity": "Cote d'Ivoire",
+   "Code": "CIV",
+   "Year": 2020,
+   "Harmonized Test Scores": 373.23053,
+   "GDP per capita, PPP (constant 2017 international $)": 5098.56,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 1362,
+   "Entity": "Croatia",
+   "Code": "HRV",
+   "Year": 2020,
+   "Harmonized Test Scores": 487.58124,
+   "GDP per capita, PPP (constant 2017 international $)": 26950.719,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 1412,
+   "Entity": "Cyprus",
+   "Code": "CYP",
+   "Year": 2020,
+   "Harmonized Test Scores": 502.16217,
+   "GDP per capita, PPP (constant 2017 international $)": 39471.582,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 1444,
+   "Entity": "Czechia",
+   "Code": "CZE",
+   "Year": 2020,
+   "Harmonized Test Scores": 512.2216,
+   "GDP per capita, PPP (constant 2017 international $)": 38639.98,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 1476,
+   "Entity": "Democratic Republic of Congo",
+   "Code": "COD",
+   "Year": 2020,
+   "Harmonized Test Scores": 310.19714,
+   "GDP per capita, PPP (constant 2017 international $)": 1044.0712,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 1509,
+   "Entity": "Denmark",
+   "Code": "DNK",
+   "Year": 2020,
+   "Harmonized Test Scores": 517.8778,
+   "GDP per capita, PPP (constant 2017 international $)": 55518.598,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 1548,
+   "Entity": "Dominica",
+   "Code": "DMA",
+   "Year": 2020,
+   "Harmonized Test Scores": 403.78323,
+   "GDP per capita, PPP (constant 2017 international $)": 10255.761,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 1581,
+   "Entity": "Dominican Republic",
+   "Code": "DOM",
+   "Year": 2020,
+   "Harmonized Test Scores": 345.21652,
+   "GDP per capita, PPP (constant 2017 international $)": 16768.426,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 1647,
+   "Entity": "East Timor",
+   "Code": "TLS",
+   "Year": 2020,
+   "Harmonized Test Scores": 371.44125,
+   "GDP per capita, PPP (constant 2017 international $)": 4856.518,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 1669,
+   "Entity": "Ecuador",
+   "Code": "ECU",
+   "Year": 2020,
+   "Harmonized Test Scores": 420.14856,
+   "GDP per capita, PPP (constant 2017 international $)": 10356.975,
+   "Continent": "South America"
+ },
+ {
+   "FIELD1": 1701,
+   "Entity": "Egypt",
+   "Code": "EGY",
+   "Year": 2020,
+   "Harmonized Test Scores": 355.9865,
+   "GDP per capita, PPP (constant 2017 international $)": 11380.847,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 1732,
+   "Entity": "El Salvador",
+   "Code": "SLV",
+   "Year": 2020,
+   "Harmonized Test Scores": 435.92276,
+   "GDP per capita, PPP (constant 2017 international $)": 8267.251,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 1798,
+   "Entity": "Estonia",
+   "Code": "EST",
+   "Year": 2020,
+   "Harmonized Test Scores": 543.20605,
+   "GDP per capita, PPP (constant 2017 international $)": 35883.266,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 1825,
+   "Entity": "Eswatini",
+   "Code": "SWZ",
+   "Year": 2020,
+   "Harmonized Test Scores": 440.3045,
+   "GDP per capita, PPP (constant 2017 international $)": 8290.409,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 1856,
+   "Entity": "Ethiopia",
+   "Code": "ETH",
+   "Year": 2020,
+   "Harmonized Test Scores": 348.19904,
+   "GDP per capita, PPP (constant 2017 international $)": 2253.2358,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 1957,
+   "Entity": "Fiji",
+   "Code": "FJI",
+   "Year": 2020,
+   "Harmonized Test Scores": 383.33597,
+   "GDP per capita, PPP (constant 2017 international $)": 10966.925,
+   "Continent": "Oceania"
+ },
+ {
+   "FIELD1": 1992,
+   "Entity": "Finland",
+   "Code": "FIN",
+   "Year": 2020,
+   "Harmonized Test Scores": 533.70764,
+   "GDP per capita, PPP (constant 2017 international $)": 47443.902,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 2024,
+   "Entity": "France",
+   "Code": "FRA",
+   "Year": 2020,
+   "Harmonized Test Scores": 510.2606,
+   "GDP per capita, PPP (constant 2017 international $)": 42233.14,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 2058,
+   "Entity": "Gabon",
+   "Code": "GAB",
+   "Year": 2020,
+   "Harmonized Test Scores": 456.1277,
+   "GDP per capita, PPP (constant 2017 international $)": 13903.289,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 2091,
+   "Entity": "Gambia",
+   "Code": "GMB",
+   "Year": 2020,
+   "Harmonized Test Scores": 352.89963,
+   "GDP per capita, PPP (constant 2017 international $)": 2042.6202,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 2123,
+   "Entity": "Georgia",
+   "Code": "GEO",
+   "Year": 2020,
+   "Harmonized Test Scores": 399.7663,
+   "GDP per capita, PPP (constant 2017 international $)": 13966.326,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 2155,
+   "Entity": "Germany",
+   "Code": "DEU",
+   "Year": 2020,
+   "Harmonized Test Scores": 517.28143,
+   "GDP per capita, PPP (constant 2017 international $)": 51840.33,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 2186,
+   "Entity": "Ghana",
+   "Code": "GHA",
+   "Year": 2020,
+   "Harmonized Test Scores": 307.2758,
+   "GDP per capita, PPP (constant 2017 international $)": 5263.5264,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 2220,
+   "Entity": "Greece",
+   "Code": "GRC",
+   "Year": 2020,
+   "Harmonized Test Scores": 468.63623,
+   "GDP per capita, PPP (constant 2017 international $)": 27103.541,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 2251,
+   "Entity": "Grenada",
+   "Code": "GRD",
+   "Year": 2020,
+   "Harmonized Test Scores": 394.74915,
+   "GDP per capita, PPP (constant 2017 international $)": 13175.423,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 2287,
+   "Entity": "Guatemala",
+   "Code": "GTM",
+   "Year": 2020,
+   "Harmonized Test Scores": 405.25757,
+   "GDP per capita, PPP (constant 2017 international $)": 8390.223,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 2319,
+   "Entity": "Guinea",
+   "Code": "GIN",
+   "Year": 2020,
+   "Harmonized Test Scores": 408.24908,
+   "GDP per capita, PPP (constant 2017 international $)": 2604.1172,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 2383,
+   "Entity": "Guyana",
+   "Code": "GUY",
+   "Year": 2020,
+   "Harmonized Test Scores": 346.3659,
+   "GDP per capita, PPP (constant 2017 international $)": 18430.57,
+   "Continent": "South America"
+ },
+ {
+   "FIELD1": 2415,
+   "Entity": "Haiti",
+   "Code": "HTI",
+   "Year": 2020,
+   "Harmonized Test Scores": 337.8153,
+   "GDP per capita, PPP (constant 2017 international $)": 2959.0894,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 2483,
+   "Entity": "Honduras",
+   "Code": "HND",
+   "Year": 2020,
+   "Harmonized Test Scores": 399.7508,
+   "GDP per capita, PPP (constant 2017 international $)": 5028.145,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 2516,
+   "Entity": "Hong Kong",
+   "Code": "HKG",
+   "Year": 2020,
+   "Harmonized Test Scores": 548.6314,
+   "GDP per capita, PPP (constant 2017 international $)": 55888.688,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 2548,
+   "Entity": "Hungary",
+   "Code": "HUN",
+   "Year": 2020,
+   "Harmonized Test Scores": 495.48123,
+   "GDP per capita, PPP (constant 2017 international $)": 31231.596,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 2579,
+   "Entity": "Iceland",
+   "Code": "ISL",
+   "Year": 2020,
+   "Harmonized Test Scores": 497.68277,
+   "GDP per capita, PPP (constant 2017 international $)": 52174.574,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 2605,
+   "Entity": "India",
+   "Code": "IND",
+   "Year": 2020,
+   "Harmonized Test Scores": 399,
+   "GDP per capita, PPP (constant 2017 international $)": 6114.0317,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 2638,
+   "Entity": "Indonesia",
+   "Code": "IDN",
+   "Year": 2020,
+   "Harmonized Test Scores": 394.9151,
+   "GDP per capita, PPP (constant 2017 international $)": 11515.74,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 2670,
+   "Entity": "Iran",
+   "Code": "IRN",
+   "Year": 2020,
+   "Harmonized Test Scores": 432.10822,
+   "GDP per capita, PPP (constant 2017 international $)": 14432.362,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 2701,
+   "Entity": "Iraq",
+   "Code": "IRQ",
+   "Year": 2020,
+   "Harmonized Test Scores": 363.4325,
+   "GDP per capita, PPP (constant 2017 international $)": 8919.798,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 2734,
+   "Entity": "Ireland",
+   "Code": "IRL",
+   "Year": 2020,
+   "Harmonized Test Scores": 521.32855,
+   "GDP per capita, PPP (constant 2017 international $)": 91099.75,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 2767,
+   "Entity": "Israel",
+   "Code": "ISR",
+   "Year": 2020,
+   "Harmonized Test Scores": 480.7522,
+   "GDP per capita, PPP (constant 2017 international $)": 39351.895,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 2794,
+   "Entity": "Italy",
+   "Code": "ITA",
+   "Year": 2020,
+   "Harmonized Test Scores": 492.98782,
+   "GDP per capita, PPP (constant 2017 international $)": 39065.28,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 2825,
+   "Entity": "Jamaica",
+   "Code": "JAM",
+   "Year": 2020,
+   "Harmonized Test Scores": 387.133,
+   "GDP per capita, PPP (constant 2017 international $)": 9198.148,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 2858,
+   "Entity": "Japan",
+   "Code": "JPN",
+   "Year": 2020,
+   "Harmonized Test Scores": 537.72345,
+   "GDP per capita, PPP (constant 2017 international $)": 39935.465,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 2891,
+   "Entity": "Jordan",
+   "Code": "JOR",
+   "Year": 2020,
+   "Harmonized Test Scores": 429.95407,
+   "GDP per capita, PPP (constant 2017 international $)": 9203.376,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 2923,
+   "Entity": "Kazakhstan",
+   "Code": "KAZ",
+   "Year": 2020,
+   "Harmonized Test Scores": 416.15463,
+   "GDP per capita, PPP (constant 2017 international $)": 25361.508,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 2955,
+   "Entity": "Kenya",
+   "Code": "KEN",
+   "Year": 2020,
+   "Harmonized Test Scores": 454.9584,
+   "GDP per capita, PPP (constant 2017 international $)": 4498.383,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 2986,
+   "Entity": "Kiribati",
+   "Code": "KIR",
+   "Year": 2020,
+   "Harmonized Test Scores": 411.4845,
+   "GDP per capita, PPP (constant 2017 international $)": 1944.8469,
+   "Continent": "Oceania"
+ },
+ {
+   "FIELD1": 3034,
+   "Entity": "Kuwait",
+   "Code": "KWT",
+   "Year": 2020,
+   "Harmonized Test Scores": 383.40222,
+   "GDP per capita, PPP (constant 2017 international $)": 43922.63,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 3062,
+   "Entity": "Kyrgyzstan",
+   "Code": "KGZ",
+   "Year": 2020,
+   "Harmonized Test Scores": 420.08652,
+   "GDP per capita, PPP (constant 2017 international $)": 4726.197,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 3094,
+   "Entity": "Laos",
+   "Code": "LAO",
+   "Year": 2020,
+   "Harmonized Test Scores": 368.1421,
+   "GDP per capita, PPP (constant 2017 international $)": 7763.9487,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 3159,
+   "Entity": "Latvia",
+   "Code": "LVA",
+   "Year": 2020,
+   "Harmonized Test Scores": 503.86978,
+   "GDP per capita, PPP (constant 2017 international $)": 30568.502,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 3186,
+   "Entity": "Lebanon",
+   "Code": "LBN",
+   "Year": 2020,
+   "Harmonized Test Scores": 389.88904,
+   "GDP per capita, PPP (constant 2017 international $)": 13780.958,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 3218,
+   "Entity": "Lesotho",
+   "Code": "LSO",
+   "Year": 2020,
+   "Harmonized Test Scores": 392.912,
+   "GDP per capita, PPP (constant 2017 international $)": 2292.1953,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 3249,
+   "Entity": "Liberia",
+   "Code": "LBR",
+   "Year": 2020,
+   "Harmonized Test Scores": 331.74594,
+   "GDP per capita, PPP (constant 2017 international $)": 1383.8281,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 3296,
+   "Entity": "Lithuania",
+   "Code": "LTU",
+   "Year": 2020,
+   "Harmonized Test Scores": 495.8863,
+   "GDP per capita, PPP (constant 2017 international $)": 37166.41,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 3387,
+   "Entity": "Luxembourg",
+   "Code": "LUX",
+   "Year": 2020,
+   "Harmonized Test Scores": 492.84784,
+   "GDP per capita, PPP (constant 2017 international $)": 111751.31,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 3419,
+   "Entity": "Macao",
+   "Code": "MAC",
+   "Year": 2020,
+   "Harmonized Test Scores": 560.6135,
+   "GDP per capita, PPP (constant 2017 international $)": 55158.71,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 3451,
+   "Entity": "Madagascar",
+   "Code": "MDG",
+   "Year": 2020,
+   "Harmonized Test Scores": 350.77332,
+   "GDP per capita, PPP (constant 2017 international $)": 1436.2069,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 3483,
+   "Entity": "Malawi",
+   "Code": "MWI",
+   "Year": 2020,
+   "Harmonized Test Scores": 359.48407,
+   "GDP per capita, PPP (constant 2017 international $)": 1489.6014,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 3515,
+   "Entity": "Malaysia",
+   "Code": "MYS",
+   "Year": 2020,
+   "Harmonized Test Scores": 445.67532,
+   "GDP per capita, PPP (constant 2017 international $)": 25830.973,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 3573,
+   "Entity": "Mali",
+   "Code": "MLI",
+   "Year": 2020,
+   "Harmonized Test Scores": 307.36496,
+   "GDP per capita, PPP (constant 2017 international $)": 2123.8281,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 3606,
+   "Entity": "Malta",
+   "Code": "MLT",
+   "Year": 2020,
+   "Harmonized Test Scores": 474.435,
+   "GDP per capita, PPP (constant 2017 international $)": 40740.97,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 3636,
+   "Entity": "Marshall Islands",
+   "Code": "MHL",
+   "Year": 2020,
+   "Harmonized Test Scores": 375.0297,
+   "GDP per capita, PPP (constant 2017 international $)": 5710.973,
+   "Continent": "Oceania"
+ },
+ {
+   "FIELD1": 3670,
+   "Entity": "Mauritania",
+   "Code": "MRT",
+   "Year": 2020,
+   "Harmonized Test Scores": 342.09357,
+   "GDP per capita, PPP (constant 2017 international $)": 5314.8496,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 3703,
+   "Entity": "Mauritius",
+   "Code": "MUS",
+   "Year": 2020,
+   "Harmonized Test Scores": 472.7672,
+   "GDP per capita, PPP (constant 2017 international $)": 20224.223,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 3737,
+   "Entity": "Mexico",
+   "Code": "MEX",
+   "Year": 2020,
+   "Harmonized Test Scores": 430.06512,
+   "GDP per capita, PPP (constant 2017 international $)": 18327.99,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 3767,
+   "Entity": "Micronesia (country)",
+   "Code": "FSM",
+   "Year": 2020,
+   "Harmonized Test Scores": 379.9026,
+   "GDP per capita, PPP (constant 2017 international $)": 3455.7166,
+   "Continent": "Oceania"
+ },
+ {
+   "FIELD1": 3866,
+   "Entity": "Moldova",
+   "Code": "MDA",
+   "Year": 2020,
+   "Harmonized Test Scores": 438.62094,
+   "GDP per capita, PPP (constant 2017 international $)": 12201.778,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 3893,
+   "Entity": "Mongolia",
+   "Code": "MNG",
+   "Year": 2020,
+   "Harmonized Test Scores": 434.61868,
+   "GDP per capita, PPP (constant 2017 international $)": 11666.779,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 3926,
+   "Entity": "Montenegro",
+   "Code": "MNE",
+   "Year": 2020,
+   "Harmonized Test Scores": 436.12973,
+   "GDP per capita, PPP (constant 2017 international $)": 18262.236,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 3952,
+   "Entity": "Morocco",
+   "Code": "MAR",
+   "Year": 2020,
+   "Harmonized Test Scores": 380.4052,
+   "GDP per capita, PPP (constant 2017 international $)": 7545.995,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 3983,
+   "Entity": "Mozambique",
+   "Code": "MOZ",
+   "Year": 2020,
+   "Harmonized Test Scores": 368.2436,
+   "GDP per capita, PPP (constant 2017 international $)": 1232.9856,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 4015,
+   "Entity": "Myanmar",
+   "Code": "MMR",
+   "Year": 2020,
+   "Harmonized Test Scores": 424.6313,
+   "GDP per capita, PPP (constant 2017 international $)": 4947.0938,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 4049,
+   "Entity": "Namibia",
+   "Code": "NAM",
+   "Year": 2020,
+   "Harmonized Test Scores": 406.66187,
+   "GDP per capita, PPP (constant 2017 international $)": 9048.184,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 4078,
+   "Entity": "Nauru",
+   "Code": "NRU",
+   "Year": 2020,
+   "Harmonized Test Scores": 346.62967,
+   "GDP per capita, PPP (constant 2017 international $)": 11958.172,
+   "Continent": "Oceania"
+ },
+ {
+   "FIELD1": 4098,
+   "Entity": "Nepal",
+   "Code": "NPL",
+   "Year": 2020,
+   "Harmonized Test Scores": 368.5576,
+   "GDP per capita, PPP (constant 2017 international $)": 3761.8027,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 4131,
+   "Entity": "Netherlands",
+   "Code": "NLD",
+   "Year": 2020,
+   "Harmonized Test Scores": 519.63464,
+   "GDP per capita, PPP (constant 2017 international $)": 54275.004,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 4165,
+   "Entity": "New Zealand",
+   "Code": "NZL",
+   "Year": 2020,
+   "Harmonized Test Scores": 519.7484,
+   "GDP per capita, PPP (constant 2017 international $)": 41642.027,
+   "Continent": "Oceania"
+ },
+ {
+   "FIELD1": 4196,
+   "Entity": "Nicaragua",
+   "Code": "NIC",
+   "Year": 2020,
+   "Harmonized Test Scores": 391.99045,
+   "GDP per capita, PPP (constant 2017 international $)": 5181.727,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 4228,
+   "Entity": "Niger",
+   "Code": "NER",
+   "Year": 2020,
+   "Harmonized Test Scores": 304.92224,
+   "GDP per capita, PPP (constant 2017 international $)": 1214.5465,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 4260,
+   "Entity": "Nigeria",
+   "Code": "NGA",
+   "Year": 2020,
+   "Harmonized Test Scores": 309.02496,
+   "GDP per capita, PPP (constant 2017 international $)": 4865.087,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 4330,
+   "Entity": "North Macedonia",
+   "Code": "MKD",
+   "Year": 2020,
+   "Harmonized Test Scores": 413.6173,
+   "GDP per capita, PPP (constant 2017 international $)": 15782.548,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 4364,
+   "Entity": "Norway",
+   "Code": "NOR",
+   "Year": 2020,
+   "Harmonized Test Scores": 513.5878,
+   "GDP per capita, PPP (constant 2017 international $)": 63548,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 4398,
+   "Entity": "Oman",
+   "Code": "OMN",
+   "Year": 2020,
+   "Harmonized Test Scores": 423.51343,
+   "GDP per capita, PPP (constant 2017 international $)": 33098.21,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 4429,
+   "Entity": "Pakistan",
+   "Code": "PAK",
+   "Year": 2020,
+   "Harmonized Test Scores": 338.65656,
+   "GDP per capita, PPP (constant 2017 international $)": 5004.352,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 4460,
+   "Entity": "Palau",
+   "Code": "PLW",
+   "Year": 2020,
+   "Harmonized Test Scores": 463.21146,
+   "GDP per capita, PPP (constant 2017 international $)": 15952.251,
+   "Continent": "Oceania"
+ },
+ {
+   "FIELD1": 4488,
+   "Entity": "Panama",
+   "Code": "PAN",
+   "Year": 2020,
+   "Harmonized Test Scores": 376.8647,
+   "GDP per capita, PPP (constant 2017 international $)": 25510.273,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 4519,
+   "Entity": "Papua New Guinea",
+   "Code": "PNG",
+   "Year": 2020,
+   "Harmonized Test Scores": 363.32062,
+   "GDP per capita, PPP (constant 2017 international $)": 3741.5967,
+   "Continent": "Oceania"
+ },
+ {
+   "FIELD1": 4552,
+   "Entity": "Paraguay",
+   "Code": "PRY",
+   "Year": 2020,
+   "Harmonized Test Scores": 385.54428,
+   "GDP per capita, PPP (constant 2017 international $)": 13317.321,
+   "Continent": "South America"
+ },
+ {
+   "FIELD1": 4585,
+   "Entity": "Peru",
+   "Code": "PER",
+   "Year": 2020,
+   "Harmonized Test Scores": 415.02542,
+   "GDP per capita, PPP (constant 2017 international $)": 11176.919,
+   "Continent": "South America"
+ },
+ {
+   "FIELD1": 4616,
+   "Entity": "Philippines",
+   "Code": "PHL",
+   "Year": 2020,
+   "Harmonized Test Scores": 361.646,
+   "GDP per capita, PPP (constant 2017 international $)": 7773.2603,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 4650,
+   "Entity": "Poland",
+   "Code": "POL",
+   "Year": 2020,
+   "Harmonized Test Scores": 530.0858,
+   "GDP per capita, PPP (constant 2017 international $)": 32546.826,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 4682,
+   "Entity": "Portugal",
+   "Code": "PRT",
+   "Year": 2020,
+   "Harmonized Test Scores": 508.5149,
+   "GDP per capita, PPP (constant 2017 international $)": 32011.324,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 4746,
+   "Entity": "Qatar",
+   "Code": "QAT",
+   "Year": 2020,
+   "Harmonized Test Scores": 427.47784,
+   "GDP per capita, PPP (constant 2017 international $)": 89019.07,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 4770,
+   "Entity": "Romania",
+   "Code": "ROU",
+   "Year": 2020,
+   "Harmonized Test Scores": 442.16174,
+   "GDP per capita, PPP (constant 2017 international $)": 29062.473,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 4802,
+   "Entity": "Russia",
+   "Code": "RUS",
+   "Year": 2020,
+   "Harmonized Test Scores": 497.54623,
+   "GDP per capita, PPP (constant 2017 international $)": 26583.797,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 4833,
+   "Entity": "Rwanda",
+   "Code": "RWA",
+   "Year": 2020,
+   "Harmonized Test Scores": 358.08398,
+   "GDP per capita, PPP (constant 2017 international $)": 2067.6416,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 4866,
+   "Entity": "Saint Kitts and Nevis",
+   "Code": "KNA",
+   "Year": 2020,
+   "Harmonized Test Scores": 409.07446,
+   "GDP per capita, PPP (constant 2017 international $)": 26700.668,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 4898,
+   "Entity": "Saint Lucia",
+   "Code": "LCA",
+   "Year": 2020,
+   "Harmonized Test Scores": 417.76065,
+   "GDP per capita, PPP (constant 2017 international $)": 11651.167,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 4932,
+   "Entity": "Saint Vincent and the Grenadines",
+   "Code": "VCT",
+   "Year": 2020,
+   "Harmonized Test Scores": 391.3927,
+   "GDP per capita, PPP (constant 2017 international $)": 13473.595,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 4964,
+   "Entity": "Samoa",
+   "Code": "WSM",
+   "Year": 2020,
+   "Harmonized Test Scores": 369.9079,
+   "GDP per capita, PPP (constant 2017 international $)": 6062.3667,
+   "Continent": "Oceania"
+ },
+ {
+   "FIELD1": 5043,
+   "Entity": "Saudi Arabia",
+   "Code": "SAU",
+   "Year": 2020,
+   "Harmonized Test Scores": 398.96893,
+   "GDP per capita, PPP (constant 2017 international $)": 42891.688,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 5076,
+   "Entity": "Senegal",
+   "Code": "SEN",
+   "Year": 2020,
+   "Harmonized Test Scores": 412.45386,
+   "GDP per capita, PPP (constant 2017 international $)": 3383.8884,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 5108,
+   "Entity": "Serbia",
+   "Code": "SRB",
+   "Year": 2020,
+   "Harmonized Test Scores": 457.4535,
+   "GDP per capita, PPP (constant 2017 international $)": 18265.967,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 5137,
+   "Entity": "Seychelles",
+   "Code": "SYC",
+   "Year": 2020,
+   "Harmonized Test Scores": 463.37933,
+   "GDP per capita, PPP (constant 2017 international $)": 26879.77,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 5168,
+   "Entity": "Sierra Leone",
+   "Code": "SLE",
+   "Year": 2020,
+   "Harmonized Test Scores": 315.87595,
+   "GDP per capita, PPP (constant 2017 international $)": 1586.196,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 5201,
+   "Entity": "Singapore",
+   "Code": "SGP",
+   "Year": 2020,
+   "Harmonized Test Scores": 575.27216,
+   "GDP per capita, PPP (constant 2017 international $)": 94505.63,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 5243,
+   "Entity": "Slovakia",
+   "Code": "SVK",
+   "Year": 2020,
+   "Harmonized Test Scores": 485.35,
+   "GDP per capita, PPP (constant 2017 international $)": 30867.973,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 5273,
+   "Entity": "Slovenia",
+   "Code": "SVN",
+   "Year": 2020,
+   "Harmonized Test Scores": 520.809,
+   "GDP per capita, PPP (constant 2017 international $)": 37098.12,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 5299,
+   "Entity": "Solomon Islands",
+   "Code": "SLB",
+   "Year": 2020,
+   "Harmonized Test Scores": 350.51862,
+   "GDP per capita, PPP (constant 2017 international $)": 2469.1077,
+   "Continent": "Oceania"
+ },
+ {
+   "FIELD1": 5342,
+   "Entity": "South Africa",
+   "Code": "ZAF",
+   "Year": 2020,
+   "Harmonized Test Scores": 342.76398,
+   "GDP per capita, PPP (constant 2017 international $)": 12815.909,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 5411,
+   "Entity": "South Korea",
+   "Code": "KOR",
+   "Year": 2020,
+   "Harmonized Test Scores": 537.2097,
+   "GDP per capita, PPP (constant 2017 international $)": 42396.76,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 5448,
+   "Entity": "Spain",
+   "Code": "ESP",
+   "Year": 2020,
+   "Harmonized Test Scores": 506.6212,
+   "GDP per capita, PPP (constant 2017 international $)": 35967.89,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 5479,
+   "Entity": "Sri Lanka",
+   "Code": "LKA",
+   "Year": 2020,
+   "Harmonized Test Scores": 400,
+   "GDP per capita, PPP (constant 2017 international $)": 13095.761,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 5543,
+   "Entity": "Sudan",
+   "Code": "SDN",
+   "Year": 2020,
+   "Harmonized Test Scores": 379.63367,
+   "GDP per capita, PPP (constant 2017 international $)": 3874.8003,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 5609,
+   "Entity": "Sweden",
+   "Code": "SWE",
+   "Year": 2020,
+   "Harmonized Test Scores": 519.36176,
+   "GDP per capita, PPP (constant 2017 international $)": 51331.28,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 5641,
+   "Entity": "Switzerland",
+   "Code": "CHE",
+   "Year": 2020,
+   "Harmonized Test Scores": 515.13904,
+   "GDP per capita, PPP (constant 2017 international $)": 68670.24,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 5674,
+   "Entity": "Tajikistan",
+   "Code": "TJK",
+   "Year": 2020,
+   "Harmonized Test Scores": 390.56555,
+   "GDP per capita, PPP (constant 2017 international $)": 3651.9421,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 5706,
+   "Entity": "Tanzania",
+   "Code": "TZA",
+   "Year": 2020,
+   "Harmonized Test Scores": 388.48016,
+   "GDP per capita, PPP (constant 2017 international $)": 2551.2063,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 5739,
+   "Entity": "Thailand",
+   "Code": "THA",
+   "Year": 2020,
+   "Harmonized Test Scores": 426.59998,
+   "GDP per capita, PPP (constant 2017 international $)": 16848.584,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 5771,
+   "Entity": "Togo",
+   "Code": "TGO",
+   "Year": 2020,
+   "Harmonized Test Scores": 383.7178,
+   "GDP per capita, PPP (constant 2017 international $)": 2066.9707,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 5803,
+   "Entity": "Tonga",
+   "Code": "TON",
+   "Year": 2020,
+   "Harmonized Test Scores": 385.9568,
+   "GDP per capita, PPP (constant 2017 international $)": 6356.96,
+   "Continent": "Oceania"
+ },
+ {
+   "FIELD1": 5837,
+   "Entity": "Trinidad and Tobago",
+   "Code": "TTO",
+   "Year": 2020,
+   "Harmonized Test Scores": 458.28894,
+   "GDP per capita, PPP (constant 2017 international $)": 23391.316,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 5869,
+   "Entity": "Tunisia",
+   "Code": "TUN",
+   "Year": 2020,
+   "Harmonized Test Scores": 384.07874,
+   "GDP per capita, PPP (constant 2017 international $)": 10050.046,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 5901,
+   "Entity": "Turkey",
+   "Code": "TUR",
+   "Year": 2020,
+   "Harmonized Test Scores": 477.96265,
+   "GDP per capita, PPP (constant 2017 international $)": 28473.205,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 5974,
+   "Entity": "Tuvalu",
+   "Code": "TUV",
+   "Year": 2020,
+   "Harmonized Test Scores": 346.49796,
+   "GDP per capita, PPP (constant 2017 international $)": 4839.6157,
+   "Continent": "Oceania"
+ },
+ {
+   "FIELD1": 6009,
+   "Entity": "Uganda",
+   "Code": "UGA",
+   "Year": 2020,
+   "Harmonized Test Scores": 397.15967,
+   "GDP per capita, PPP (constant 2017 international $)": 2240.4902,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 6041,
+   "Entity": "Ukraine",
+   "Code": "UKR",
+   "Year": 2020,
+   "Harmonized Test Scores": 478.17334,
+   "GDP per capita, PPP (constant 2017 international $)": 12407.79,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 6073,
+   "Entity": "United Arab Emirates",
+   "Code": "ARE",
+   "Year": 2020,
+   "Harmonized Test Scores": 448.04068,
+   "GDP per capita, PPP (constant 2017 international $)": 67668.29,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 6105,
+   "Entity": "United Kingdom",
+   "Code": "GBR",
+   "Year": 2020,
+   "Harmonized Test Scores": 520.35645,
+   "GDP per capita, PPP (constant 2017 international $)": 41984.105,
+   "Continent": "Europe"
+ },
+ {
+   "FIELD1": 6137,
+   "Entity": "United States",
+   "Code": "USA",
+   "Year": 2020,
+   "Harmonized Test Scores": 511.79868,
+   "GDP per capita, PPP (constant 2017 international $)": 60167.855,
+   "Continent": "North America"
+ },
+ {
+   "FIELD1": 6203,
+   "Entity": "Uruguay",
+   "Code": "URY",
+   "Year": 2020,
+   "Harmonized Test Scores": 437.69662,
+   "GDP per capita, PPP (constant 2017 international $)": 21828.64,
+   "Continent": "South America"
+ },
+ {
+   "FIELD1": 6232,
+   "Entity": "Uzbekistan",
+   "Code": "UZB",
+   "Year": 2020,
+   "Harmonized Test Scores": 474.07513,
+   "GDP per capita, PPP (constant 2017 international $)": 7344.22,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 6266,
+   "Entity": "Vanuatu",
+   "Code": "VUT",
+   "Year": 2020,
+   "Harmonized Test Scores": 347.68582,
+   "GDP per capita, PPP (constant 2017 international $)": 2836.8135,
+   "Continent": "Oceania"
+ },
+ {
+   "FIELD1": 6301,
+   "Entity": "Vietnam",
+   "Code": "VNM",
+   "Year": 2020,
+   "Harmonized Test Scores": 519.1003,
+   "GDP per capita, PPP (constant 2017 international $)": 10450.622,
+   "Continent": "Asia"
+ },
+ {
+   "FIELD1": 6404,
+   "Entity": "Zambia",
+   "Code": "ZMB",
+   "Year": 2020,
+   "Harmonized Test Scores": 358.14044,
+   "GDP per capita, PPP (constant 2017 international $)": 3183.651,
+   "Continent": "Africa"
+ },
+ {
+   "FIELD1": 6437,
+   "Entity": "Zimbabwe",
+   "Code": "ZWE",
+   "Year": 2020,
+   "Harmonized Test Scores": 396.13882,
+   "GDP per capita, PPP (constant 2017 international $)": 1990.3195,
+   "Continent": "Africa"
+ }
+]
