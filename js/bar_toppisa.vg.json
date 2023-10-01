@@ -1,0 +1,52 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Top 8 Country with Highest PISA Score",
+    "width": 200, "height": 200,
+    "data": {
+      "values": [
+        {"country": "1. China", "Pisa Score": 578.7},
+        {"country": "2. Singapore", "Pisa Score": 556.3},
+        {"country": "3. Estonia", "Pisa Score": 525.3},
+        {"country": "4. Japan", "Pisa Score": 520.0},
+        {"country": "5. South Korea", "Pisa Score": 519.7},
+        {"country": "6. Canada", "Pisa Score": 516.7},
+        {"country": "7. Taiwan ", "Pisa Score": 516.7},
+        {"country": "8. Finland", "Pisa Score": 516.3}
+      ]
+    },
+    "encoding": {
+      "y": {"field": "country", "type": "nominal", "title": "Country"},
+      "x": {"field": "Pisa Score", "type": "quantitative", "scale": {"domain": [0, 700]}}
+    },
+    "layer": [{
+        "params": [{
+            "name": "brush",
+            "select": {"type": "interval", "encodings": ["y"]}
+          }],
+      "mark": "bar"
+    }, {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 3
+      },
+      "encoding": {
+        "text": {"field": "Pisa Score", "type": "quantitative"}
+      }
+    }, {
+        "transform": [{
+          "filter": {"param": "brush"}
+        }],
+        "mark": "rule",
+        "encoding": {
+          "x": {
+            "datum":""
+          },
+          "color": {"value": "firebrick"},
+          "size": {"value": 3}
+        }
+      }]
+  }
+  
+  

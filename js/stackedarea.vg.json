@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Literacy Worldwide",
+  "data": {"url": "https://raw.githubusercontent.com/Clairinechendra/FIT3179_A2/main/Edu%20Data/literate-and-illiterate-world-population_cleaned.csv"},
+  "width": 500, "height": 600,
+  "mark": "area",
+
+  "encoding": {
+    "x": {
+      "field": "Year", "timeUnit": "year", 
+      "title":"Year"},
+      
+    "y": {
+      "aggregate": "sum", "field": "Literacy",
+      "title":"Literacy Percentage (%)",
+      "stack": "normalize"
+
+    },
+    "color": {
+        "field":"variable",
+        "scale": {"range": ["#0F4392","#FF4949"]}
+    },
+    
+    "tooltip": [
+          {"field": "variable", "type": "nominal", "title": "Condition"},
+          {"field": "Year", "timeUnit": "year", "title":"Year"},
+          {
+            "field": "Percentage",
+            "type": "quantitative",
+            "format": ",.2f",
+            "title":"Literacy Percentage (%)"
+          }
+        ],
+    
+        "opacity": {
+          "condition": {"param": "type", "value": 1},
+          "value": 0.5
+        }
+  },
+
+  "params": [{
+    "name": "type",
+    "select": {"fields": ["variable"], "on":"click", "type": "point"}
+  }]
+}

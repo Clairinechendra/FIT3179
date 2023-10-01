@@ -1,0 +1,52 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Top 8 Country with Lowest PISA Score",
+    "width": 200, "height": 200,
+    "data": {
+      "values": [
+        {"country": "1. Dominican Republic", "Pisa Score": 334.3},
+        {"country": "2. Philippines ", "Pisa Score": 350.0},
+        {"country": "3. Kosovo", "Pisa Score": 361.3},
+        {"country": "4. Panama", "Pisa Score": 365.0},
+        {"country": "5. Morocco", "Pisa Score": 368.0},
+        {"country": "6. Lebanon", "Pisa Score": 376.7},
+        {"country": "7. Indonesia", "Pisa Score": 382.0},
+        {"country": "8. Saudi Arabia", "Pisa Score": 386}
+      ]
+    },
+    "encoding": {
+      "y": {"field": "country", "type": "nominal", "title": "Country"},
+      "x": {"field": "Pisa Score", "type": "quantitative", "scale": {"domain": [0, 500]}}
+    },
+    "layer": [{
+        "params": [{
+            "name": "brush",
+            "select": {"type": "interval", "encodings": ["y"]}
+          }],
+      "mark": "bar"
+    }, {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 3
+      },
+      "encoding": {
+        "text": {"field": "Pisa Score", "type": "quantitative"}
+      }
+    }, {
+        "transform": [{
+          "filter": {"param": "brush"}
+        }],
+        "mark": "rule",
+        "encoding": {
+          "x": {
+            "datum":""
+          },
+          "color": {"value": "firebrick"},
+          "size": {"value": 3}
+        }
+      }]
+  }
+  
+  

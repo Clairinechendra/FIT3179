@@ -1,0 +1,91 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+     "title": "Completion Rate Education 2020 Upper Secondary",
+     "width": 900,
+    "height": 200,
+    "data": {
+      "values": [{
+        "Species": "Africa",
+        "lower": 51,
+        "q1": 56.75,
+        "median": 63,
+        "q3": 74.5,
+        "upper": 87,
+        "outliers": []
+      },{
+        "Species": "Asia",
+        "lower": 77,
+        "q1": 91.75,
+        "median": 99,
+        "q3": 99.75,
+        "upper": 100,
+        "outliers": [77,79]
+      },{
+        "Species": "Europe",
+        "lower": 93,
+        "q1": 92,
+        "median": 95,
+        "q3": 98,
+        "upper": 100,
+        "outliers": [90]
+      },{
+        "Species": "North America",
+        "lower": 83,
+        "q1": 87.5,
+        "median": 97,
+        "q3": 98.5,
+        "upper": 100,
+        "outliers": []
+      },{
+        "Species": "Oceania",
+        "lower": 93,
+        "q1": 96.75,
+        "median": 98.5,
+        "q3": 99,
+        "upper": 99,
+        "outliers": [93]
+      },{
+        "Species": "South America",
+        "lower": 86,
+        "q1": 94.5,
+        "median": 96.5,
+        "q3": 97.75,
+        "upper": 98,
+        "outliers": [86]
+      }]
+    },
+    "encoding": {"y": {"field": "Species", "type": "nominal", "title": null}},
+    "layer": [
+      {
+        "mark": {"type": "rule"},
+        "encoding": {
+          "x": {"field": "lower", "type": "quantitative",
+                "scale": {"domain": [0, 110]}, 
+                "title": null},
+          "x2": {"field": "upper"}
+        }
+      },
+      {
+        "mark": {"type": "bar", "size": 14},
+        "encoding": {
+          "x": {"field": "q1", "type": "quantitative"},
+          "x2": {"field": "q3"},
+          "color": {"field": "Species", "type": "nominal", "legend": null}
+        }
+      },
+      {
+        "mark": {"type": "tick", "color": "white", "size": 14},
+        "encoding": {
+          "x": {"field": "median", "type": "quantitative"}
+        }
+      },
+      {
+        "transform": [{"flatten": ["outliers"]}],
+        "mark": {"type": "point", "style": "boxplot-outliers"},
+        "encoding": {
+          "x": {"field": "outliers", "type": "quantitative"}
+        }
+      }
+    ]
+  }
+  
