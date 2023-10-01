@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Import Vega & Vega-Lite-->
+        <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Agency - Start Bootstrap Theme</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    
+    <body id="page-top">
+        <!-- Masthead-->
+        <header class="masthead">
+            <div class="container">
+                <div class="masthead-subheading"> Data Visualization</div>
+                <div class="masthead-heading text-uppercase">Analysis on Global Education</div>
+            </div>
+        </header>
+
+        
+        <!-- World Map-->
+        <section class="page-section" id="World Map">
+          <div class="container">
+              <div class="text-center">
+                  <h2 class="section-heading text-uppercase">AVERAGE SCHOOLING YEARS</h2>
+                  <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+              </div>
+              <div class="row text-center">
+                  <div id="map"></div>
+              </div>
+          </div>
+      </section>
+
+      <!-- Gender-->
+      <!-- section 1 -->
+      <div class="section-1">
+        <div class="line-chart-title">
+          <div class="title-sub-div">
+            
+            <div class="subtitle">
+              <h2>Alcohol consumption per capita in the long run</h2>
+            </div>
+          </div>
+          <hr>
+        </div>
+        <div class="line-chart"> 
+          <div id="divergingbar"></div>
+          <br>
+        </div>
+
+        <div class="line-chart-text">
+          <p>
+            The graph above depicts the average per capita pure alcohol consumption per person from 1960 to 2014, measured in litres. 
+            Several countries saw a growing tendency over the studied years, demonstrating that alcohol is still a popular beverage around the world. 
+            Austria had the highest average alcohol consumption in 2014 with <b>10.4 litres</b>, while Japan had the lowest with <b>5.6 litres</b>, 
+            according to the data that was examined. </p>
+        </div>
+        <div class="area-chart-title">
+          <div class="title-sub-div">
+
+            <div class="subtitle">
+              <h2>Type of alcoholic beverage consumed in the U. S., 1850-2013</h2>
+            </div>
+          </div>
+          <hr>
+        </div>
+        <div class="area-chart">
+          <div id="linechart"></div>
+        </div>
+        <div class="area-chart-text">
+          <p>Overall, the highest consumption from 1850 to 2013 is <b>beer</b>. 
+            In 1850, beer had not become popular yet, Spirits were more popular. 
+            As the year increased,<b>beer</b> became more popular (<b>45.2%</b>) in 1890 than <b>Spirits (47.7%)</b>. 
+            It is assumed that there was <b>zero consumption</b> of alcohol from <b>1920 to 1933</b> because there was <b>a ban on alcohol production</b> which was known as ‘National Alcohol Prohibition’. 
+            <b>Wine</b> has the <b>smallest</b> proportion throughout the years because of its expensive price compared to other alcoholic beverages. </p>
+        </div>
+      </div>
+      <!-- end section 1 -->
+        
+                <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <script type="text/javascript">
+            
+            var spec1 = "js/mymap2.vg.json";
+            vegaEmbed('#map', spec1, { "actions": false }).then(function (result) {
+              // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            }).catch(console.error);
+
+            var spec2 = "js/bar_toppisa.vg.json";
+            vegaEmbed('#toppisa', spec2, { "actions": false }).then(function (result) {
+              // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            }).catch(console.error);
+        
+            var spec3 = "js/bar_lowpisa.vg.json";
+            vegaEmbed('#lowpisa', spec3, { "actions": false }).then(function (result) {
+              // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            }).catch(console.error);
+        
+            var spec4 = "js/boxplot_1.vg.json";
+            vegaEmbed('#boxplot1', spec4, { "actions": false }).then(function (result) {
+              // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            }).catch(console.error);
+        
+            var spec5 = "js/boxplot_2.vg.json";
+            vegaEmbed('#boxplot2', spec5, { "actions": false }).then(function (result) {
+              // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            }).catch(console.error);
+        
+            var spec6 = "js/boxplot_3.vg.json";
+            vegaEmbed('#boxplot3', spec6, { "actions": false }).then(function (result) {
+              // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            }).catch(console.error);
+
+            var spec7 = "js/bubblechart.vg.json";
+            vegaEmbed('#bubblechart', spec7, { "actions": false }).then(function (result) {
+              // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            }).catch(console.error);
+
+            var spec8 = "js/divergingbar.vg.json";
+            vegaEmbed('#divergingbar', spec8, { "actions": false }).then(function (result) {
+              // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            }).catch(console.error);
+
+            var spec9 = "js/heatmap.vg.json";
+            vegaEmbed('#heatmap', spec9, { "actions": false }).then(function (result) {
+              // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            }).catch(console.error);
+        
+            var spec10 = "js/linechart.vg.json";
+            vegaEmbed('#linechart', spec10, { "actions": false }).then(function (result) {
+              // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            }).catch(console.error);
+
+            var spec11 = "js/stackedarea.vg.json";
+            vegaEmbed('#stackedarea', spec11, { "actions": false }).then(function (result) {
+              // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            }).catch(console.error);
+
+          </script>
+        
+    </body>
+</html>
