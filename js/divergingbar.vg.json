@@ -1,10 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": {
-      "text": "Out-of-school children based on Gender",
-      "fontSize": 16,
-      "anchor": "middle" 
-    },
+
     "data": { "url": "https://raw.githubusercontent.com/Clairinechendra/FIT3179_A2/main/Edu%20Data/outschool1_wide.csv"},
     "transform": [
       {"calculate": "datum.Sex == 'Female' ? 'Female' : 'Male'", "as": "gender"}

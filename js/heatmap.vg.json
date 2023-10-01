@@ -2,10 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega/v5.json",
     "width": 300,
     "height": 1000,
-    "title": {
-      "text": "Government Expenditure on Education, total (% of GDP)",
-      "fontSize": 16
-    },
+
   
     "data": [
       {
@@ -23,8 +20,11 @@
           "fill": "color",
           "type": "symbol",
           "title": "% Expense of GDP",
-          "direction": "vertical",
-          "orient": "right"
+          "direction": "horizontal",
+          "orient": "top",
+          "titleFontSize": 12,
+          "titlePadding": 3,
+          "gradientLength": {"signal": "width"}
         }
       ],
 

@@ -54,7 +54,17 @@
         "outliers": []
       }]
     },
-    "encoding": {"y": {"field": "Species", "type": "nominal", "title": null}},
+    "encoding": {
+      "y": {"field": "Species", "type": "nominal", "title": null},
+      "tooltip": [
+        {"field": "Species", "type": "nominal", "title": "Country"},
+        {"field": "lower", "type": "quantitative", "title": "Minimum"},
+        {"field": "q1", "type": "quantitative", "format": ",.2f", "title": "Q1"},
+        {"field": "median", "type": "quantitative", "format": ",.2f", "title": "Median"},
+        {"field": "q3", "type": "quantitative", "format": ",.2f", "title": "Q3"},
+        {"field": "upper", "type": "quantitative", "title": "Maximum"}
+      ]},
+      
     "layer": [
       {
         "mark": {"type": "rule"},

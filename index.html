@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Agency - Start Bootstrap Theme</title>
+        <title>Analysis on Global Education</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -21,75 +21,242 @@
         <link href="css/styles.css" rel="stylesheet" />
     </head>
     
+   
     <body id="page-top">
-        <!-- Masthead-->
-        <header class="masthead">
-            <div class="container">
-                <div class="masthead-subheading"> Data Visualization</div>
-                <div class="masthead-heading text-uppercase">Analysis on Global Education</div>
-            </div>
-        </header>
-
-        
-        <!-- World Map-->
-        <section class="page-section" id="World Map">
-          <div class="container">
-              <div class="text-center">
-                  <h2 class="section-heading text-uppercase">AVERAGE SCHOOLING YEARS</h2>
-                  <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+      
+          <!-- Masthead-->
+          <header class="masthead">
+              <div class="container">
+                  <div class="masthead-subheading"> Data Visualization</div>
+                  <div class="masthead-heading text-uppercase">Analysis on Global Education</div>
               </div>
-              <div class="row text-center">
-                  <div id="map"></div>
+          </header>
+   
+      <div class="page"> 
+          <!-- World Map-->
+            <section class="page-section" id="World Map">
+              <div class="container">
+                  <div class="text-center">
+                    <hr class="sep">
+                      <h2 class="section-heading text-uppercase">AVERAGE SCHOOLING YEARS</h2>
+                      <hr class="sep">
+                      <h3 class="section-subheading text-muted">
+                        Lorem ipsum dolor sit amet consectetur. 
+                        Lorem ipsum dolor sit amet consectetur.
+                        Lorem ipsum dolor sit amet consectetur.
+                        Lorem ipsum dolor sit amet consectetur.
+                      </h3>
+                  </div>
+                  <div class="row text-center">
+                      <div id="map"></div>
+                  </div>
               </div>
-          </div>
-      </section>
+            </section>
 
-      <!-- Gender-->
-      <!-- section 1 -->
-      <div class="section-1">
-        <div class="line-chart-title">
-          <div class="title-sub-div">
+          <!-- Gender-->
+            <section class="page-section" id="Gender Based">
+              <div class="container">
+                  <div class="text-center">
+                    <hr class="sep">
+                      <h2 class="section-heading text-uppercase">GENDER BASED ANALYSIS</h2>
+                      <hr class="sep">
+                  </div>
+
+                  <!--vis-->
+                  <div class="gender-grid">
+                    <div class="gender-left">
+                        <div class="text-center">
+                          <h2>Out-of-school children based on Gender</h2>
+                        </div>
+                        <hr>
+                        <div id="divergingbar"></div>
+                    </div>
+
+                    <div class="gender-right-top">
+                      <div class="sub-row-bar">
+                        <div class="gender-row">
+                            <div class="text-center">
+                              <h2>Gender Ratio for Average Years of Schooling</h2>
+                            </div>
+                          <hr>
+                          <div id="linechart"></div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="gender-right-down">
+                      <div class="gender-text">
+                        <p>
+                          <br>
+                          <br>
+                          <br>
+                          <br>
+                          <b>Carbon emission</b> is the major byproduct of electricity generation and is a matter that should not be
+                          neglected. It is found that the electricity production contributes to<b> 25% of the total greenhouse gas
+                          emissions</b>. While electric power generation is <b>the second largest source of carbon emission</b>. These carbon
+                          emissions from electric power plants are commonly due to the burning of coal, fossil fuels, oils, and gases.
+                          As such, countries with high electricity consumption generally would consequently have a larger carbon
+                          emission. Although solar and wind electricity generation can have less carbon emission, the efficiency of
+                          these two methods at producing electricity is far lower than traditional methods. On the left is a heat map
+                          that depicts the carbon emission of top 64 countries in the world since 1990 to 2018 sorted in alphabetical
+                          order. The heat map provides the ability to quickly identify which country produces high carbon emission and
+                          observing whether these countries reduce or increases carbon emission.<br><br>
+                        </p>
+                      </div>
+                    </div>
+                  <!--end vis-->
+
+              </div>
+            </section>
+          <!-- End Gender-->
+
+          <!-- GDP-->
+              <section class="page-section" id="GDP">
+                <div class="container">
+                    <div class="text-center">
+                      <hr class="sep">
+                        <h2 class="section-heading text-uppercase">GDP</h2>
+                        <hr class="sep">
+                    </div>
+                </div>
+              
+
+                  <!--vis-->
+                  <div class="gender-grid">
+                    <div class="gender-left">
+                        <hr>
+                        <div class="text-center">
+                          <h2>Government Expenditure on Education</h2>
+                        </div>
+                        <hr>
+                        <div id="heatmap"></div>
+                    </div>
+
+                    <div class="gender-right-top">
+                      <div class="sub-row-bar">
+                        <div class="gender-row">
+                          <hr>
+                            <div class="text-center">
+                              <h2>Top Highest and Lowest PISA Score</h2>
+                            </div>
+                          <hr>
+                          <div id="toppisa"></div>
+                          <div id="lowpisa"></div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="gender-right-down">
+                      <div class="gender-text">
+                        <p>
+                          <br>
+                          <br>
+                          <br>
+                          <br>
+                          <b>Carbon emission</b> is the major byproduct of electricity generation and is a matter that should not be
+                          neglected. It is found that the electricity production contributes to<b> 25% of the total greenhouse gas
+                          emissions</b>. While electric power generation is <b>the second largest source of carbon emission</b>. These carbon
+                          emissions from electric power plants are commonly due to the burning of coal, fossil fuels, oils, and gases.
+                          As such, countries with high electricity consumption generally would consequently have a larger carbon
+                          emission. Although solar and wind electricity generation can have less carbon emission, the efficiency of
+                          these two methods at producing electricity is far lower than traditional methods. On the left is a heat map
+                          that depicts the carbon emission of top 64 countries in the world since 1990 to 2018 sorted in alphabetical
+                          order. The heat map provides the ability to quickly identify which country produces high carbon emission and
+                          observing whether these countries reduce or increases carbon emission.<br><br>
+                        </p>
+                      </div>
+                    </div>
+
+                  <!--end vis-->
+              </section>
+          <!-- End GDP-->
+
+          <!-- Completion Rate-->
+              <section class="page-section" id="Gender Based">
+                <div class="container">
+                    <div class="text-center">
+                      <hr class="sep">
+                        <h2 class="section-heading text-uppercase">SCHOOL COMPLETION RATE</h2>
+                        <hr class="sep">
+                    </div>
+                    <div class="row text-center">
+                        <div id="boxplot1"></div>
+                        <div id="boxplot2"></div>
+                        <div id="boxplot3"></div>
+                    </div>
+                    <div class="two-col">
+                      <p>
+                        <b>Carbon emission</b> is the major byproduct of electricity generation and is a matter that should not be
+                        neglected. It is found that the electricity production contributes to<b> 25% of the total greenhouse gas
+                        emissions</b>. While electric power generation is <b>the second largest source of carbon emission</b>. These carbon
+                        emissions from electric power plants are commonly due to the burning of coal, fossil fuels, oils, and gases.
+                        As such, countries with high electricity consumption generally would consequently have a larger carbon
+                        emission. Although solar and wind electricity generation can have less carbon emission, the efficiency of
+                        these two methods at producing electricity is far lower than traditional methods. On the left is a heat map
+                        that depicts the carbon emission of top 64 countries in the world since 1990 to 2018 sorted in alphabetical
+                        order. The heat map provides the ability to quickly identify which country produces high carbon emission and
+                        observing whether these countries reduce or increases carbon emission.<br><br>
+                      </p>
+                    </div>
+                </div>
+            </section>   
             
-            <div class="subtitle">
-              <h2>Alcohol consumption per capita in the long run</h2>
-            </div>
-          </div>
-          <hr>
-        </div>
-        <div class="line-chart"> 
-          <div id="divergingbar"></div>
-          <br>
-        </div>
+          
+          <!-- Literacy-->
+              <section class="page-section" id="Literacy">
+                <div class="container">
+                    <div class="text-center">
+                      <hr class="sep">
+                        <h2 class="section-heading text-uppercase">LITERACY</h2>
+                        <hr class="sep">
+                    </div>
+                </div>
+            </section>
 
-        <div class="line-chart-text">
-          <p>
-            The graph above depicts the average per capita pure alcohol consumption per person from 1960 to 2014, measured in litres. 
-            Several countries saw a growing tendency over the studied years, demonstrating that alcohol is still a popular beverage around the world. 
-            Austria had the highest average alcohol consumption in 2014 with <b>10.4 litres</b>, while Japan had the lowest with <b>5.6 litres</b>, 
-            according to the data that was examined. </p>
-        </div>
-        <div class="area-chart-title">
-          <div class="title-sub-div">
-
-            <div class="subtitle">
-              <h2>Type of alcoholic beverage consumed in the U. S., 1850-2013</h2>
-            </div>
-          </div>
-          <hr>
-        </div>
-        <div class="area-chart">
-          <div id="linechart"></div>
-        </div>
-        <div class="area-chart-text">
-          <p>Overall, the highest consumption from 1850 to 2013 is <b>beer</b>. 
-            In 1850, beer had not become popular yet, Spirits were more popular. 
-            As the year increased,<b>beer</b> became more popular (<b>45.2%</b>) in 1890 than <b>Spirits (47.7%)</b>. 
-            It is assumed that there was <b>zero consumption</b> of alcohol from <b>1920 to 1933</b> because there was <b>a ban on alcohol production</b> which was known as ‘National Alcohol Prohibition’. 
-            <b>Wine</b> has the <b>smallest</b> proportion throughout the years because of its expensive price compared to other alcoholic beverages. </p>
-        </div>
-      </div>
-      <!-- end section 1 -->
+            <!--vis-->
+              <div class="literacy-sec">
+                <div class="bubblechart"> 
+                  <div id="bubblechart"></div>
+                </div>
         
+                <div class="literacy-title">
+                  <h2>Total Traffic And Alcohol-Impaired Crash Fatalities in the U.S., 1985-2020</h2>
+                  <hr>
+                </div>
+        
+                <div class="bubblechart-text">
+                  <p>
+                    Consumption of alcohol also impacts the traffic-accident in the United States. 
+                    Alcohol-impared traffic means the driver has a blood alcohol concentration level more than<b> 0.08 grams</b> (legal definition of impaired driving in most states). 
+                    <b>Over one-third</b> of the total crash fatalities were caused by alcohol. 
+                    Although there were fewer fatal crashes overall between 1985 and 2011, there is <b>an upward trend</b> for the remaining years.
+                  </p>
+              </div>
+            </div>
+        
+            <div class="literacy2-sec">
+              <div class="stackedbar-title">
+                <h2>Percentage of fatal accident with drinking drivers, by day and time of occurrence in the U.S., 2016</h2>
+                <hr>
+              </div>
+
+              <div class="stackedbar-text">
+                <p>
+                  The heat map indicates that fatal crashes involving drunk drivers are more likely to occur <b>on the weekends</b>, particularly on <b>Saturday</b>. 
+                  Additionally, the accidents tend to occur more frequently between<b> 6.30 pm and 4.59 am</b>. 
+                  To reduce the likelihood of deadly crash incidents, we must therefore be extremely careful during that time and authorities must check blood alcohol levels more frequently. 
+                </p>
+              </div>
+        
+              <div class="stackedbar"> 
+                <div id="stackedarea"></div>
+            </div>
+            <!--end vis-->
+
+          <!-- End Literacy-->
+
+      </div> 
+
                 <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
