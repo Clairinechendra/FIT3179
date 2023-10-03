@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Top 8 Country with Highest PISA Score",
-    "width": 200, "height": 200,
+    "width": 400, "height": 200,
     "data": {
       "values": [
         {"country": "1. China", "Pisa Score": 578.7},
@@ -15,7 +15,7 @@
       ]
     },
     "encoding": {
-      "y": {"field": "country", "type": "nominal", "title": "Country"},
+      "y": {"field": "country", "type": "nominal", "title": ""},
       "x": {"field": "Pisa Score", "type": "quantitative", "scale": {"domain": [0, 700]}}
     },
     "layer": [{

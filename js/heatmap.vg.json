@@ -37,7 +37,7 @@
   
     "axes": [
       { "scale": "x", "orient": "bottom", "title": "Year"},
-      { "scale": "y", "orient": "left", "title": "Country"}
+      { "scale": "y", "orient": "left", "title": ""}
     ],
   
     "marks": [

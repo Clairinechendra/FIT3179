@@ -9,19 +9,6 @@
           },
   "projection": {"type": "equalEarth"},
   
-  "params": [
-              {
-              "name": "year_selection",
-              "value": 2020,
-              "bind": {
-                  "input": "range",
-                  "min": 1870,
-                  "max": 2040,
-                  "step": 1,
-                  "name": "Year Selection: "
-              }
-              }
-            ],
 
   "layer": [
               {
