@@ -80,6 +80,7 @@
   --bs-highlight-bg: #fff4cc;
 }
 
+
 .page {
   width: 1100px;
   margin: auto;
@@ -151,10 +152,14 @@ header.masthead .masthead-heading {
 .page-section .section-subheading.h3 {
   font-size: 1rem;
   font-weight: 400;
-  font-style: italic;
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   margin-bottom: 4rem;
 }
+
+.vis-container {
+  margin-bottom: 10px;
+}
+
 
 .vis-container {
   width: 100%;
@@ -257,15 +262,12 @@ hr.sep {
   grid-template-columns: 50% auto;
   grid-template-rows: 40% auto;
   margin-top: 20px;
-  padding-bottom: 10px;
-  margin-bottom: 20px;
 }
 
 .gender-left {
   grid-column: 1;
   grid-row: 1 /span 2;
   padding-right: 30px;
-  padding-bottom: 10px;
 }
 
 .gender-right-top {
@@ -276,13 +278,13 @@ hr.sep {
 .gender-right-down {
   grid-column: 2;
   grid-row: 2;
-  padding-top: 70px;
-  padding-bottom: 10px;
+  padding-top: 50px;
 }
 
 .gender-text {
   grid-column: 1;
   grid-row: 2;
+  padding-top: 50px;
 }
 
 .gender-row {
@@ -294,57 +296,57 @@ hr.sep {
 }
 
 
-          /* Literacy*/
+/* Literacy*/
 
-          .literacy-sec {
-            display: grid;
-            grid-template-columns: auto;
-            grid-template-rows: 20px;
-          }
+.literacy-sec {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: 20px;
+}
 
-          .literacy-title {
-            grid-column: 2;
-            grid-row: 1;
-            padding-top: 30px;
-            padding-left: 15px;
-          }
+.literacy-title {
+  grid-column: 2;
+  grid-row: 1;
+  padding-left: 15px;
+}
 
-          .bubblechart{
-            grid-column: 1;
-            grid-row: 2;
-            padding-right: 15px;
-          }
+.bubblechart {
+  grid-column: 1;
+  grid-row: 2;
+  padding-right: 15px;
+}
 
-          .bubblechart-text {
-            grid-column: 2;
-            grid-row: 2;
-            padding-top: 70px;
-            padding-left: 15px;
-          }
+.bubblechart-text {
+  grid-column: 2;
+  grid-row: 2;
+  padding-top: 70px;
+  padding-left: 15px;
+}
 
-        .literacy2-sec{
-          display: grid;
-          grid-template-columns: auto auto;
-          grid-template-rows: 50px auto;
-          padding-top: 30px;
-          padding-bottom: 50px;
-          
-        }
-        .stackedbar-title {
-          grid-column: 1;
-          grid-row: 1;
-          padding-right: 15px;
-        }
+.literacy2-sec {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: 50px auto;
+  padding-top: 30px;
+  padding-bottom: 50px;
 
-        .stackedbar {
-          grid-column: 2;
-          grid-row: 1;
-          padding-left: 15px;
-        }
+}
 
-        .stackedbar-text {
-          grid-column: 1;
-          grid-row: 2;
-          padding-top: 50px;
-          padding-right: 15px;
-        }
+.stackedbar-title {
+  grid-column: 1;
+  grid-row: 1;
+  padding-right: 15px;
+}
+
+.stackedbar {
+  grid-column: 2;
+  grid-row: 1;
+  padding-left: 15px;
+}
+
+.stackedbar-text {
+  grid-column: 1;
+  grid-row: 2;
+  padding-top: 50px;
+  padding-right: 15px;
+}
