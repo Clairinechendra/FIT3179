@@ -153,7 +153,7 @@ header.masthead .masthead-heading {
   font-size: 1rem;
   font-weight: 400;
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  margin-bottom: 4rem;
+  margin-bottom: 0rem;
 }
 
 .vis-container {
@@ -259,8 +259,8 @@ hr.sep {
 
 .gender-grid {
   display: grid;
-  grid-template-columns: 50% auto;
-  grid-template-rows: 40% auto;
+  grid-template-columns: 50%;
+  grid-template-rows: 40;
   margin-top: 20px;
 }
 
@@ -278,13 +278,13 @@ hr.sep {
 .gender-right-down {
   grid-column: 2;
   grid-row: 2;
-  padding-top: 50px;
+  padding-top: 15px;
 }
 
 .gender-text {
   grid-column: 1;
   grid-row: 2;
-  padding-top: 50px;
+  padding-top: -50px;
 }
 
 .gender-row {
@@ -321,6 +321,9 @@ hr.sep {
   grid-row: 2;
   padding-top: 70px;
   padding-left: 15px;
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .literacy2-sec {
@@ -345,8 +348,16 @@ hr.sep {
 }
 
 .stackedbar-text {
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   grid-column: 1;
   grid-row: 2;
-  padding-top: 50px;
+  padding-top: 25px;
   padding-right: 15px;
+}
+
+/* Additional*/
+.marginup {
+  padding-top: 20px;
 }
