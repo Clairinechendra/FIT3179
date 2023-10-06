@@ -17,12 +17,12 @@
 
     },
     "color": {
-        "field":"variable",
+        "field":"Type",
         "scale": {"range": ["#0F4392","#FF4949"]}
     },
     
     "tooltip": [
-          {"field": "variable", "type": "nominal", "title": "Condition"},
+          {"field": "Type", "type": "nominal", "title": "Condition"},
           {"field": "Year", "timeUnit": "year", "title":"Year"},
           {
             "field": "Percentage",
@@ -41,7 +41,7 @@
   "params": [
     {
     "name": "type",
-    "select": {"fields": ["variable"], "on":"click", "type": "point"}
+    "select": {"fields": ["Type"], "on":"click", "type": "point"}
     }
   ]
 }

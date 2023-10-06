@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
      "title": "Completion Rate Education 2020 Primary",
      "width": 900,
-    "height": 200,
+    "height": 150,
     "data": {
       "values": [{
         "Species": "Africa",
@@ -70,7 +70,7 @@
         "mark": {"type": "rule"},
         "encoding": {
           "x": {"field": "lower", "type": "quantitative",
-                "scale": {"domain": [0, 120]}, 
+                "scale": {"domain": [25, 105]}, 
                 "title": null},
           "x2": {"field": "upper"}
         }

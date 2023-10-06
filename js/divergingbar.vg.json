@@ -9,7 +9,7 @@
       "transform": [{
         "filter": {"field": "gender", "equal": "Female"}
       }],
-      "title": "Female",
+      "title": {"text": "Female", "anchor": "middle"},
       "mark": "bar",
       "encoding": {
         "y": {
@@ -17,7 +17,7 @@
         },
         "x": {
           "aggregate": "sum", "field": "Population",
-          "title": "population",
+          "title": "Population",
           "axis": {"format": "s"},
           "sort": "descending"
         },
@@ -55,7 +55,7 @@
         },
         "x": {
           "aggregate": "sum", "field": "Population",
-          "title": "population",
+          "title": "Population",
           "axis": {"format": "s"}
         },
         "color": {
