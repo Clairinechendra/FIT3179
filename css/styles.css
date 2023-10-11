@@ -250,6 +250,10 @@ hr.sep {
   border: 1px solid
 }
 
+hr.sepref {
+  border: 5px solid
+}
+
 /* Gender & GDP*/
 .title-sub-div {
   display: grid;
@@ -293,6 +297,7 @@ hr.sep {
 
 .two-col {
   column-count: 2;
+  padding-top: 20PX;
 }
 
 
