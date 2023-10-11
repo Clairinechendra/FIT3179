@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-     "title": "Completion Rate Education 2020 Primary",
+     "title": "Completion Rate of Primary Education in 2020 (%)",
      "width": 900,
     "height": 150,
     "data": {
@@ -80,8 +80,17 @@
         "encoding": {
           "x": {"field": "q1", "type": "quantitative"},
           "x2": {"field": "q3"},
-          "color": {"field": "Species", "type": "nominal", "legend": null}
-        }
+          "color": {"field": "Species", "type": "nominal", "legend": null, 
+                "scale": {"range": [
+                  "#e41a1c",
+                  "#984ea3",
+                  "#ff7f00",
+                  "#a6cee3",
+                  "#377eb8",
+                  "#a65628"
+                ]}
+                }
+              }
       },
       {
         "mark": {"type": "tick", "color": "white", "size": 14},

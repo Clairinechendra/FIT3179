@@ -40,8 +40,17 @@
     "encoding": {
       "x": {"field": "Year"},
       "y": {"field": "Ratio", "type": "quantitative"},
-      "color": {"field": "Entity", "type": "nominal", "title": "Continent"},
-    
+      "color": {"field": "Entity", "type": "nominal", "title": "Continent", 
+                "scale": {"range": [
+                  "#e41a1c",
+                  "#984ea3",
+                  "#ff7f00",
+                  "#a6cee3",
+                  "#377eb8",
+                  "#a65628"
+                ]}
+              },
+              
       "tooltip": [
         {"field": "Year", "type": "quantitative"},
         {"field": "Entity", "type": "nominal", "title": "Continent"},
